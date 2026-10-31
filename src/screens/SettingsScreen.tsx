@@ -7,6 +7,7 @@ import { Section } from '../components/Section';
 import { Txt } from '../components/Txt';
 import { WoodBoard } from '../components/WoodBoard';
 import { speak } from '../feedback';
+import { playSound } from '../sounds';
 import { useGame } from '../GameContext';
 import { colors } from '../theme';
 import { DIFFICULTIES, TIMER_OPTIONS } from './labels';
@@ -40,6 +41,17 @@ export function SettingsScreen({ onBack }: { onBack: () => void }) {
             onChange={(on) => {
               updateSettings({ readAloud: on });
               if (on) speak('Ich lese dir die Fragen vor!');
+            }}
+          />
+        </Section>
+
+        <Section title="Geräusche" note="Applaus bei richtigen Antworten und ein leises „Oh-oh“ bei falschen.">
+          <Choice
+            options={ON_OFF}
+            value={settings.sounds}
+            onChange={(on) => {
+              updateSettings({ sounds: on });
+              if (on) playSound('correct');
             }}
           />
         </Section>

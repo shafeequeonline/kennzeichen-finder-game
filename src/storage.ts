@@ -8,6 +8,8 @@ export type Settings = {
   difficulty: Difficulty;
   timerSeconds: TimerSeconds;
   readAloud: boolean;
+  /** Applause and "oh-oh" sounds after each answer. */
+  sounds: boolean;
   vibration: boolean;
 };
 
@@ -15,6 +17,7 @@ export const DEFAULT_SETTINGS: Settings = {
   difficulty: 'leicht',
   timerSeconds: 60,
   readAloud: true,
+  sounds: true,
   vibration: true,
 };
 

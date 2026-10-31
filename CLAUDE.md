@@ -19,7 +19,8 @@ This game was built inside the **Kennzeichen Finder** app (`~/Projects/GermanVeh
 ## Decisions for the age group
 
 - Difficulty: **Leicht** = 40 hand-picked big cities with child-friendly short names (`EASY` in `src/game/questions.ts`) and 3 answers. **Mittel** = about 250 towns, **Schwer** = all 767 district codes; both have 4 answers. Official codes (BD, THW, Y, …) and the one code that spans two states are never asked.
-- Read-aloud (expo-speech, `de-DE`) is on by default for pre-readers. The timed quiz does not read automatically (too fast), but its 🔊 button still works.
+- Read-aloud (expo-speech, `de-DE`) is on by default for pre-readers. The timed quiz does not read automatically (too fast), but its 🔊 button still works. The voice uses a raised pitch and the best installed German voice (`src/feedback.ts`) so it sounds younger.
+- Answer sounds (expo-audio): applause when right, a soft "oh-oh" when wrong, applause at the end of a round. They can be switched on and off in Einstellungen and with the 🔔 button in the quiz header (same `sounds` setting). `assets/sounds/*.wav` are synthesised by `tools/make_sounds.py`; replace them with recorded sounds if you like. expo-audio is configured without microphone, Android recording or background playback, so the app requests no extra permissions.
 - No failing: wrong answers show the right one ("Fast! Richtig ist: …") and the game moves on, and every finished round earns at least 1 star.
 - Highscores and settings are stored on the device only (AsyncStorage). No accounts, ads, analytics or network access. Keep it that way: it is meant for the stores' Kids / Families categories.
 - Navigation is plain state in `App.tsx` (no router), and the Android back button returns to the menu.

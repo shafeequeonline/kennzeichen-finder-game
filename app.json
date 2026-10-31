@@ -29,7 +29,15 @@
     "plugins": [
       "expo-font",
       "expo-status-bar",
-      "./plugins/withSceneLifecycle"
+      "./plugins/withSceneLifecycle",
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "recordAudioAndroid": false,
+          "enableBackgroundPlayback": false
+        }
+      ]
     ],
     "web": {
       "bundler": "metro",

@@ -3,6 +3,7 @@ import { Animated, Platform, StyleSheet, Text, View } from 'react-native';
 import { ChunkyButton } from '../components/ChunkyButton';
 import { Plate } from '../components/Plate';
 import { ScreenFrame } from '../components/ScreenFrame';
+import { SoundToggle } from '../components/SoundToggle';
 import { SpeakButton } from '../components/SpeakButton';
 import { Stars } from '../components/Stars';
 import { Txt } from '../components/Txt';
@@ -11,6 +12,7 @@ import { speak, spell, stopSpeaking, vibrate } from '../feedback';
 import { makeQuestion, ROUND_LENGTH, starsFor, type Question } from '../game/questions';
 import { useGame } from '../GameContext';
 import { pools } from '../plates';
+import { playSound, preloadSounds } from '../sounds';
 import type { Mode } from '../storage';
 import { colors } from '../theme';
 
@@ -34,7 +36,7 @@ function spokenQuestion(q: Question): string {
 
 export function QuizScreen({ mode, onExit }: { mode: Mode; onExit: () => void }) {
   const { settings, recordScore } = useGame();
-  const { difficulty, readAloud, vibration, timerSeconds } = settings;
+  const { difficulty, readAloud, sounds, vibration, timerSeconds } = settings;
   const timed = mode === 'timed';
   const pool = pools[difficulty];
 
@@ -72,9 +74,10 @@ export function QuizScreen({ mode, onExit }: { mode: Mode; onExit: () => void })
           ? `Die Zeit ist um! Du hast ${finalScore} richtig.${newRecord ? ' Neuer Rekord!' : ''}`
           : `Geschafft! Du hast ${finalScore} von ${ROUND_LENGTH} richtig.${newRecord ? ' Neuer Rekord!' : ''}`,
       );
+      if (sounds) playSound('correct');
       if (vibration) vibrate('correct');
     },
-    [mode, timed, timerSeconds, recordScore, say, vibration],
+    [mode, timed, timerSeconds, recordScore, say, sounds, vibration],
   );
 
   // Read each new question aloud. The timed quiz moves too fast for that; its speaker button still works.
@@ -82,9 +85,12 @@ export function QuizScreen({ mode, onExit }: { mode: Mode; onExit: () => void })
     if (!timed && !result) say(spokenQuestion(question));
   }, [question, timed, result, say]);
 
-  useEffect(() => () => {
-    stopSpeaking();
-    if (advanceTimer.current) clearTimeout(advanceTimer.current);
+  useEffect(() => {
+    preloadSounds();
+    return () => {
+      stopSpeaking();
+      if (advanceTimer.current) clearTimeout(advanceTimer.current);
+    };
   }, []);
 
   // Countdown for the timed quiz. Refs keep the tick steady: re-renders from answering don't restart it.
@@ -109,6 +115,7 @@ export function QuizScreen({ mode, onExit }: { mode: Mode; onExit: () => void })
     setPicked(option);
     setScore(nextScore);
     setStreak(correct ? streak + 1 : 0);
+    if (sounds) playSound(correct ? 'correct' : 'wrong');
     if (vibration) vibrate(correct ? 'correct' : 'wrong');
 
     if (correct) {
@@ -163,7 +170,16 @@ export function QuizScreen({ mode, onExit }: { mode: Mode; onExit: () => void })
   const isCorrect = picked === question.answer;
 
   return (
-    <ScreenFrame title={TITLES[mode]} onBack={onExit} right={<SpeakButton onPress={speakAll} />}>
+    <ScreenFrame
+      title={TITLES[mode]}
+      onBack={onExit}
+      right={
+        <View style={styles.headerButtons}>
+          <SoundToggle />
+          <SpeakButton onPress={speakAll} />
+        </View>
+      }
+    >
       <View style={styles.status}>
         <Txt weight="bold" style={styles.statusText}>
           {timed ? `⏱️ ${timeLeft} s` : `Frage ${number} von ${ROUND_LENGTH}`}
@@ -295,6 +311,7 @@ function ResultView({
 }
 
 const styles = StyleSheet.create({
+  headerButtons: { flexDirection: 'row', gap: 8 },
   status: { flexDirection: 'row', justifyContent: 'space-between', paddingHorizontal: 4, marginBottom: 6 },
   statusText: {
     fontSize: 20,

@@ -32,7 +32,7 @@ export function ScreenFrame({ title, onBack, right, scroll = true, children }: P
           >
             <Txt weight="bold" style={styles.backText}>‹</Txt>
           </ChunkyButton>
-          <Txt weight="bold" style={styles.title} numberOfLines={1}>
+          <Txt weight="bold" style={styles.title} numberOfLines={1} adjustsFontSizeToFit minimumFontScale={0.7}>
             {title}
           </Txt>
           <View style={styles.right}>{right}</View>
