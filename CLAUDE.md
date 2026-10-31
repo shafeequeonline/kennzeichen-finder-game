@@ -33,4 +33,11 @@ This game was built inside the **Kennzeichen Finder** app (`~/Projects/GermanVeh
 ## Checking changes
 
 - `npm test` runs the logic tests (Node test runner), and `npm run typecheck` runs the typecheck.
-- To check the UI, build for web (`npx expo export -p web`) and drive it with Playwright at 390×844. This has been verified on the web only, not yet in an iOS or Android simulator.
+- To check the UI, build for web (`npx expo export -p web`) and drive it with Playwright at 390×844. It also runs on a physical iPhone 15 (iOS 27); Android is not yet tested.
+
+## iOS builds
+
+- iOS bundle ID is `com.shafeeque.kennzeichenabenteuer.game` (Android still `com.shafeeque.kennzeichenabenteuer`); Apple team `LM69NV5F9M` is set in `app.json`.
+- iOS 27 kills apps at launch (SIGTRAP in `_UIApplicationEvaluateRuntimeIssueForNoSceneLifecycleAdoption`) unless they adopt the UIScene life cycle, and the SDK 57 prebuild template doesn't. `plugins/withSceneLifecycle.js` fixes this by adding a scene manifest that uses Expo's `ExpoAppSceneDelegate` and by stopping `AppDelegate` from creating the window. Keep it until the Expo template does this itself. Kennzeichen Finder needs the same fix.
+- `ios/` is generated (`npx expo prebuild -p ios --clean`) and git-ignored; don't edit it by hand.
+- Install on a connected iPhone: `npx expo run:ios --device --configuration Release`.

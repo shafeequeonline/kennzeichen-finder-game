@@ -12,7 +12,8 @@
       "backgroundColor": "#5BB8F0"
     },
     "ios": {
-      "bundleIdentifier": "com.shafeeque.kennzeichenabenteuer",
+      "bundleIdentifier": "com.shafeeque.kennzeichenabenteuer.game",
+      "appleTeamId": "LM69NV5F9M",
       "supportsTablet": true,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -27,7 +28,8 @@
     },
     "plugins": [
       "expo-font",
-      "expo-status-bar"
+      "expo-status-bar",
+      "./plugins/withSceneLifecycle"
     ],
     "web": {
       "bundler": "metro",
