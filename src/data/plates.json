@@ -1,0 +1,11122 @@
+[
+ {
+  "code": "A",
+  "type": "district",
+  "districts": [
+   "Augsburg",
+   "Landkreis Augsburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AA",
+  "type": "district",
+  "districts": [
+   "Ostalbkreis"
+  ],
+  "origin": "Aalen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "AB",
+  "type": "district",
+  "districts": [
+   "Aschaffenburg",
+   "Landkreis Aschaffenburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ABG",
+  "type": "district",
+  "districts": [
+   "Altenburger Land"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ABI",
+  "type": "district",
+  "districts": [
+   "Anhalt-Bitterfeld"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "AC",
+  "type": "district",
+  "districts": [
+   "Städteregion Aachen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "AE",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": "Auerbach",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "AH",
+  "type": "district",
+  "districts": [
+   "Borken"
+  ],
+  "origin": "Ahaus",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "AIB",
+  "type": "district",
+  "districts": [
+   "Landkreis Rosenheim"
+  ],
+  "origin": "Bad Aibling",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AIC",
+  "type": "district",
+  "districts": [
+   "Aichach-Friedberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AK",
+  "type": "district",
+  "districts": [
+   "Altenkirchen (Westerwald)"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "AL",
+  "type": "district",
+  "districts": [
+   "Märkischer Kreis"
+  ],
+  "origin": "Altena",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "ALF",
+  "type": "district",
+  "districts": [
+   "Hildesheim"
+  ],
+  "origin": "Alfeld",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "ALS",
+  "type": "district",
+  "districts": [
+   "Vogelsbergkreis"
+  ],
+  "origin": "Alsfeld",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ALZ",
+  "type": "district",
+  "districts": [
+   "Landkreis Aschaffenburg"
+  ],
+  "origin": "Alzenau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AM",
+  "type": "district",
+  "districts": [
+   "Amberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AN",
+  "type": "district",
+  "districts": [
+   "Ansbach",
+   "Landkreis Ansbach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ANA",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Annaberg-Buchholz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ANG",
+  "type": "district",
+  "districts": [
+   "Uckermark"
+  ],
+  "origin": "Angermünde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "ANK",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Anklam",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "AÖ",
+  "type": "district",
+  "districts": [
+   "Altötting"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "AP",
+  "type": "district",
+  "districts": [
+   "Weimarer Land"
+  ],
+  "origin": "Apolda",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "APD",
+  "type": "district",
+  "districts": [
+   "Weimarer Land"
+  ],
+  "origin": "Apolda",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "AR",
+  "type": "district",
+  "districts": [
+   "Hochsauerlandkreis"
+  ],
+  "origin": "Arnsberg",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "ARN",
+  "type": "district",
+  "districts": [
+   "Ilm-Kreis"
+  ],
+  "origin": "Arnstadt",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ART",
+  "type": "district",
+  "districts": [
+   "Kyffhäuserkreis"
+  ],
+  "origin": "Artern",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "AS",
+  "type": "district",
+  "districts": [
+   "Amberg-Sulzbach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ASD",
+  "type": "district",
+  "districts": [
+   "Emsland"
+  ],
+  "origin": "Aschendorf",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "ASL",
+  "type": "district",
+  "districts": [
+   "Salzlandkreis"
+  ],
+  "origin": "Aschersleben",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "ASZ",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Aue-Schwarzenberg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "AT",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Altentreptow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "AU",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Aue",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "AUR",
+  "type": "district",
+  "districts": [
+   "Aurich"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "AW",
+  "type": "district",
+  "districts": [
+   "Ahrweiler"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "AZ",
+  "type": "district",
+  "districts": [
+   "Alzey-Worms"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "AZE",
+  "type": "district",
+  "districts": [
+   "Anhalt-Bitterfeld"
+  ],
+  "origin": "Anhalt-Zerbst",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "B",
+  "type": "district",
+  "districts": [
+   "Berlin"
+  ],
+  "origin": null,
+  "states": [
+   "Berlin"
+  ],
+  "statesEn": [
+   "Berlin"
+  ]
+ },
+ {
+  "code": "BA",
+  "type": "district",
+  "districts": [
+   "Bamberg",
+   "Landkreis Bamberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BAD",
+  "type": "district",
+  "districts": [
+   "Baden-Baden"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BAR",
+  "type": "district",
+  "districts": [
+   "Barnim"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BB",
+  "type": "district",
+  "districts": [
+   "Böblingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BBG",
+  "type": "district",
+  "districts": [
+   "Salzlandkreis"
+  ],
+  "origin": "Bernburg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BBL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Brandenburg"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BC",
+  "type": "district",
+  "districts": [
+   "Biberach"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BCH",
+  "type": "district",
+  "districts": [
+   "Neckar-Odenwald-Kreis"
+  ],
+  "origin": "Buchen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BD",
+  "type": "official",
+  "districts": [
+   "Bundestag, Bundesrat, Bundesregierung (federal government vehicles)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "BE",
+  "type": "district",
+  "districts": [
+   "Warendorf"
+  ],
+  "origin": "Beckum",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BED",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Brand-Erbisdorf",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "BEI",
+  "type": "district",
+  "districts": [
+   "Eichstätt"
+  ],
+  "origin": "Beilngries",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BEL",
+  "type": "district",
+  "districts": [
+   "Potsdam-Mittelmark"
+  ],
+  "origin": "Bad Belzig",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BER",
+  "type": "district",
+  "districts": [
+   "Barnim"
+  ],
+  "origin": "Bernau",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BF",
+  "type": "district",
+  "districts": [
+   "Steinfurt"
+  ],
+  "origin": "Burgsteinfurt",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BG",
+  "type": "official",
+  "districts": [
+   "Bundesgrenzschutz (former Federal Border Guard, now BP)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "BGD",
+  "type": "district",
+  "districts": [
+   "Berchtesgadener Land"
+  ],
+  "origin": "Berchtesgaden",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BGL",
+  "type": "district",
+  "districts": [
+   "Berchtesgadener Land"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BH",
+  "type": "district",
+  "districts": [
+   "Rastatt",
+   "Ortenaukreis"
+  ],
+  "origin": "Bühl",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BI",
+  "type": "district",
+  "districts": [
+   "Bielefeld"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BID",
+  "type": "district",
+  "districts": [
+   "Marburg-Biedenkopf"
+  ],
+  "origin": "Biedenkopf",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "BIN",
+  "type": "district",
+  "districts": [
+   "Mainz-Bingen"
+  ],
+  "origin": "Bingen",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "BIR",
+  "type": "district",
+  "districts": [
+   "Birkenfeld"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "BIT",
+  "type": "district",
+  "districts": [
+   "Eifelkreis Bitburg-Prüm"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "BIW",
+  "type": "district",
+  "districts": [
+   "Bautzen"
+  ],
+  "origin": "Bischofswerda",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "BK",
+  "type": "district",
+  "districts": [
+   "Rems-Murr-Kreis",
+   "Börde"
+  ],
+  "origin": "Backnang / Bördekreis",
+  "states": [
+   "Baden-Württemberg",
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Baden-Württemberg",
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BKS",
+  "type": "district",
+  "districts": [
+   "Bernkastel-Wittlich"
+  ],
+  "origin": "Bernkastel-Kues",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "BL",
+  "type": "district",
+  "districts": [
+   "Zollernalbkreis"
+  ],
+  "origin": "Balingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BLB",
+  "type": "district",
+  "districts": [
+   "Siegen-Wittgenstein"
+  ],
+  "origin": "Bad Berleburg",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BLK",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BM",
+  "type": "district",
+  "districts": [
+   "Rhein-Erft-Kreis"
+  ],
+  "origin": "Bergheim",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BN",
+  "type": "district",
+  "districts": [
+   "Bonn"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BNA",
+  "type": "district",
+  "districts": [
+   "Landkreis Leipzig"
+  ],
+  "origin": "Borna",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "BO",
+  "type": "district",
+  "districts": [
+   "Bochum"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BOG",
+  "type": "district",
+  "districts": [
+   "Straubing-Bogen"
+  ],
+  "origin": "Bogen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BOH",
+  "type": "district",
+  "districts": [
+   "Borken"
+  ],
+  "origin": "Bocholt",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BOR",
+  "type": "district",
+  "districts": [
+   "Borken"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BOT",
+  "type": "district",
+  "districts": [
+   "Bottrop"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BÖ",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Bördekreis",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BP",
+  "type": "official",
+  "districts": [
+   "Bundespolizei (Federal Police)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "BR",
+  "type": "district",
+  "districts": [
+   "Landkreis Karlsruhe"
+  ],
+  "origin": "Bruchsal",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BRA",
+  "type": "district",
+  "districts": [
+   "Wesermarsch"
+  ],
+  "origin": "Brake",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BRB",
+  "type": "district",
+  "districts": [
+   "Brandenburg an der Havel"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BRG",
+  "type": "district",
+  "districts": [
+   "Jerichower Land"
+  ],
+  "origin": "Burg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BRI",
+  "type": "district",
+  "districts": [
+   "Hochsauerlandkreis"
+  ],
+  "origin": "Brilon",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BRK",
+  "type": "district",
+  "districts": [
+   "Bad Kissingen"
+  ],
+  "origin": "Bad Brückenau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BRL",
+  "type": "district",
+  "districts": [
+   "Goslar"
+  ],
+  "origin": "Braunlage",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BRV",
+  "type": "district",
+  "districts": [
+   "Rotenburg (Wümme)"
+  ],
+  "origin": "Bremervörde",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BS",
+  "type": "district",
+  "districts": [
+   "Braunschweig"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BSB",
+  "type": "district",
+  "districts": [
+   "Landkreis Osnabrück"
+  ],
+  "origin": "Bersenbrück",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BSK",
+  "type": "district",
+  "districts": [
+   "Oder-Spree"
+  ],
+  "origin": "Beeskow",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "BT",
+  "type": "district",
+  "districts": [
+   "Bayreuth",
+   "Landkreis Bayreuth"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BTF",
+  "type": "district",
+  "districts": [
+   "Anhalt-Bitterfeld"
+  ],
+  "origin": "Bitterfeld",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "BU",
+  "type": "district",
+  "districts": [
+   "Region Hannover"
+  ],
+  "origin": "Burgdorf",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "BUL",
+  "type": "district",
+  "districts": [
+   "Schwandorf",
+   "Amberg-Sulzbach"
+  ],
+  "origin": "Burglengenfeld",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BÜD",
+  "type": "district",
+  "districts": [
+   "Wetteraukreis"
+  ],
+  "origin": "Büdingen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "BÜR",
+  "type": "district",
+  "districts": [
+   "Paderborn"
+  ],
+  "origin": "Büren",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "BÜS",
+  "type": "district",
+  "districts": [
+   "Konstanz"
+  ],
+  "origin": "Büsingen am Hochrhein",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BÜZ",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": "Bützow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "BW",
+  "type": "official",
+  "districts": [
+   "Wasserstraßen- und Schifffahrtsverwaltung des Bundes (Federal Waterways and Shipping Administration)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "BWL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Baden-Württemberg"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "BYL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Bavaria"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "BZ",
+  "type": "district",
+  "districts": [
+   "Bautzen"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "BZA",
+  "type": "district",
+  "districts": [
+   "Südliche Weinstraße"
+  ],
+  "origin": "Bad Bergzabern",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "C",
+  "type": "district",
+  "districts": [
+   "Chemnitz"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "CA",
+  "type": "district",
+  "districts": [
+   "Oberspreewald-Lausitz"
+  ],
+  "origin": "Calau",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "CAS",
+  "type": "district",
+  "districts": [
+   "Recklinghausen"
+  ],
+  "origin": "Castrop-Rauxel",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "CB",
+  "type": "district",
+  "districts": [
+   "Cottbus"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "CE",
+  "type": "district",
+  "districts": [
+   "Celle"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "CHA",
+  "type": "district",
+  "districts": [
+   "Cham"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "CLP",
+  "type": "district",
+  "districts": [
+   "Cloppenburg"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "CLZ",
+  "type": "district",
+  "districts": [
+   "Goslar"
+  ],
+  "origin": "Clausthal-Zellerfeld",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "CO",
+  "type": "district",
+  "districts": [
+   "Coburg",
+   "Landkreis Coburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "COC",
+  "type": "district",
+  "districts": [
+   "Cochem-Zell"
+  ],
+  "origin": "Cochem",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "COE",
+  "type": "district",
+  "districts": [
+   "Coesfeld"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "CR",
+  "type": "district",
+  "districts": [
+   "Schwäbisch Hall"
+  ],
+  "origin": "Crailsheim",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "CUX",
+  "type": "district",
+  "districts": [
+   "Cuxhaven"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "CW",
+  "type": "district",
+  "districts": [
+   "Calw"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "D",
+  "type": "district",
+  "districts": [
+   "Düsseldorf"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DA",
+  "type": "district",
+  "districts": [
+   "Darmstadt"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "DAH",
+  "type": "district",
+  "districts": [
+   "Dachau"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DAN",
+  "type": "district",
+  "districts": [
+   "Lüchow-Dannenberg"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "DAU",
+  "type": "district",
+  "districts": [
+   "Vulkaneifel"
+  ],
+  "origin": "Daun",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "DB",
+  "type": "official",
+  "districts": [
+   "Deutsche Bundesbahn (former federal railway)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "DBR",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": "Bad Doberan",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "DD",
+  "type": "district",
+  "districts": [
+   "Dresden"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "DE",
+  "type": "district",
+  "districts": [
+   "Dessau-Roßlau"
+  ],
+  "origin": "Dessau",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "DEG",
+  "type": "district",
+  "districts": [
+   "Deggendorf"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DEL",
+  "type": "district",
+  "districts": [
+   "Delmenhorst"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "DGF",
+  "type": "district",
+  "districts": [
+   "Dingolfing-Landau"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DH",
+  "type": "district",
+  "districts": [
+   "Diepholz"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "DI",
+  "type": "district",
+  "districts": [
+   "Darmstadt-Dieburg"
+  ],
+  "origin": "Dieburg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "DIL",
+  "type": "district",
+  "districts": [
+   "Lahn-Dill-Kreis"
+  ],
+  "origin": "Dillenburg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "DIN",
+  "type": "district",
+  "districts": [
+   "Wesel"
+  ],
+  "origin": "Dinslaken",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DIZ",
+  "type": "district",
+  "districts": [
+   "Rhein-Lahn-Kreis"
+  ],
+  "origin": "Diez",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "DKB",
+  "type": "district",
+  "districts": [
+   "Landkreis Ansbach"
+  ],
+  "origin": "Dinkelsbühl",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DL",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Döbeln",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "DLG",
+  "type": "district",
+  "districts": [
+   "Dillingen an der Donau"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DM",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Demmin",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "DN",
+  "type": "district",
+  "districts": [
+   "Düren"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DO",
+  "type": "district",
+  "districts": [
+   "Dortmund"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DON",
+  "type": "district",
+  "districts": [
+   "Donau-Ries"
+  ],
+  "origin": "Donauwörth",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "DS",
+  "type": "district",
+  "districts": [
+   "Schwarzwald-Baar-Kreis"
+  ],
+  "origin": "Donaueschingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "DT",
+  "type": "district",
+  "districts": [
+   "Lippe"
+  ],
+  "origin": "Detmold",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DU",
+  "type": "district",
+  "districts": [
+   "Duisburg"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "DUD",
+  "type": "district",
+  "districts": [
+   "Göttingen"
+  ],
+  "origin": "Duderstadt",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "DÜW",
+  "type": "district",
+  "districts": [
+   "Bad Dürkheim"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "DW",
+  "type": "district",
+  "districts": [
+   "Sächsische Schweiz-Osterzgebirge"
+  ],
+  "origin": "Dippoldiswalde",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "DZ",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Delitzsch",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "E",
+  "type": "district",
+  "districts": [
+   "Essen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "EA",
+  "type": "district",
+  "districts": [
+   "Wartburgkreis"
+  ],
+  "origin": "Eisenach",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "EB",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Eilenburg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "EBE",
+  "type": "district",
+  "districts": [
+   "Ebersberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EBN",
+  "type": "district",
+  "districts": [
+   "Haßberge"
+  ],
+  "origin": "Ebern",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EBS",
+  "type": "district",
+  "districts": [
+   "Forchheim",
+   "Landkreis Bayreuth",
+   "Kulmbach"
+  ],
+  "origin": "Ebermannstadt",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ECK",
+  "type": "district",
+  "districts": [
+   "Rendsburg-Eckernförde"
+  ],
+  "origin": "Eckernförde",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "ED",
+  "type": "district",
+  "districts": [
+   "Erding"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EE",
+  "type": "district",
+  "districts": [
+   "Elbe-Elster"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "EF",
+  "type": "district",
+  "districts": [
+   "Erfurt"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "EG",
+  "type": "district",
+  "districts": [
+   "Rottal-Inn"
+  ],
+  "origin": "Eggenfelden",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EH",
+  "type": "district",
+  "districts": [
+   "Oder-Spree"
+  ],
+  "origin": "Eisenhüttenstadt",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "EHI",
+  "type": "district",
+  "districts": [
+   "Alb-Donau-Kreis"
+  ],
+  "origin": "Ehingen (Donau)",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "EI",
+  "type": "district",
+  "districts": [
+   "Eichstätt"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EIC",
+  "type": "district",
+  "districts": [
+   "Eichsfeld"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "EIH",
+  "type": "district",
+  "districts": [
+   "Eichstätt"
+  ],
+  "origin": "Eichstätt",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "EIL",
+  "type": "district",
+  "districts": [
+   "Mansfeld-Südharz"
+  ],
+  "origin": "Eisleben",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "EIN",
+  "type": "district",
+  "districts": [
+   "Northeim"
+  ],
+  "origin": "Einbeck",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "EIS",
+  "type": "district",
+  "districts": [
+   "Saale-Holzland-Kreis"
+  ],
+  "origin": "Eisenberg",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "EL",
+  "type": "district",
+  "districts": [
+   "Emsland"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "EM",
+  "type": "district",
+  "districts": [
+   "Emmendingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "EMD",
+  "type": "district",
+  "districts": [
+   "Emden"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "EMS",
+  "type": "district",
+  "districts": [
+   "Rhein-Lahn-Kreis"
+  ],
+  "origin": "Bad Ems",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "EN",
+  "type": "district",
+  "districts": [
+   "Ennepe-Ruhr-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "ER",
+  "type": "district",
+  "districts": [
+   "Erlangen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ERB",
+  "type": "district",
+  "districts": [
+   "Odenwaldkreis"
+  ],
+  "origin": "Erbach",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ERH",
+  "type": "district",
+  "districts": [
+   "Erlangen-Höchstadt"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ERK",
+  "type": "district",
+  "districts": [
+   "Heinsberg"
+  ],
+  "origin": "Erkelenz",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "ERZ",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ES",
+  "type": "district",
+  "districts": [
+   "Esslingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "ESA",
+  "type": "district",
+  "districts": [
+   "Wartburgkreis"
+  ],
+  "origin": "Eisenach",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ESB",
+  "type": "district",
+  "districts": [
+   "Amberg-Sulzbach",
+   "Landkreis Bayreuth",
+   "Neustadt an der Waldnaab",
+   "Nürnberger Land"
+  ],
+  "origin": "Eschenbach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ESW",
+  "type": "district",
+  "districts": [
+   "Werra-Meißner-Kreis"
+  ],
+  "origin": "Eschwege",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "EU",
+  "type": "district",
+  "districts": [
+   "Euskirchen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "EUT",
+  "type": "district",
+  "districts": [
+   "Ostholstein"
+  ],
+  "origin": "Eutin",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "EW",
+  "type": "district",
+  "districts": [
+   "Barnim"
+  ],
+  "origin": "Eberswalde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "F",
+  "type": "district",
+  "districts": [
+   "Frankfurt am Main"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "FAL",
+  "type": "district",
+  "districts": [
+   "Heidekreis"
+  ],
+  "origin": "Fallingbostel",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "FB",
+  "type": "district",
+  "districts": [
+   "Wetteraukreis"
+  ],
+  "origin": "Friedberg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "FD",
+  "type": "district",
+  "districts": [
+   "Fulda"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "FDB",
+  "type": "district",
+  "districts": [
+   "Aichach-Friedberg"
+  ],
+  "origin": "Friedberg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FDS",
+  "type": "district",
+  "districts": [
+   "Freudenstadt"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "FEU",
+  "type": "district",
+  "districts": [
+   "Landkreis Ansbach"
+  ],
+  "origin": "Feuchtwangen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FF",
+  "type": "district",
+  "districts": [
+   "Frankfurt (Oder)"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "FFB",
+  "type": "district",
+  "districts": [
+   "Fürstenfeldbruck"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FG",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Freiberg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "FH",
+  "type": "district",
+  "districts": [
+   "Main-Taunus-Kreis"
+  ],
+  "origin": "Frankfurt-Höchst",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "FI",
+  "type": "district",
+  "districts": [
+   "Elbe-Elster"
+  ],
+  "origin": "Finsterwalde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "FKB",
+  "type": "district",
+  "districts": [
+   "Waldeck-Frankenberg"
+  ],
+  "origin": "Frankenberg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "FL",
+  "type": "district",
+  "districts": [
+   "Flensburg"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "FLÖ",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Flöha",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "FN",
+  "type": "district",
+  "districts": [
+   "Bodenseekreis"
+  ],
+  "origin": "Friedrichshafen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "FO",
+  "type": "district",
+  "districts": [
+   "Forchheim"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FOR",
+  "type": "district",
+  "districts": [
+   "Spree-Neiße"
+  ],
+  "origin": "Forst",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "FR",
+  "type": "district",
+  "districts": [
+   "Freiburg im Breisgau",
+   "Breisgau-Hochschwarzwald"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "FRG",
+  "type": "district",
+  "districts": [
+   "Freyung-Grafenau"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FRI",
+  "type": "district",
+  "districts": [
+   "Friesland"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "FRW",
+  "type": "district",
+  "districts": [
+   "Märkisch-Oderland"
+  ],
+  "origin": "Bad Freienwalde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "FS",
+  "type": "district",
+  "districts": [
+   "Freising"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FT",
+  "type": "district",
+  "districts": [
+   "Frankenthal (Pfalz)"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "FTL",
+  "type": "district",
+  "districts": [
+   "Sächsische Schweiz-Osterzgebirge"
+  ],
+  "origin": "Freital",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "FÜ",
+  "type": "district",
+  "districts": [
+   "Fürth",
+   "Landkreis Fürth"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FÜS",
+  "type": "district",
+  "districts": [
+   "Ostallgäu"
+  ],
+  "origin": "Füssen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "FW",
+  "type": "district",
+  "districts": [
+   "Oder-Spree"
+  ],
+  "origin": "Fürstenwalde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "FZ",
+  "type": "district",
+  "districts": [
+   "Schwalm-Eder-Kreis"
+  ],
+  "origin": "Fritzlar",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "G",
+  "type": "district",
+  "districts": [
+   "Gera"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "GA",
+  "type": "district",
+  "districts": [
+   "Altmarkkreis Salzwedel"
+  ],
+  "origin": "Gardelegen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "GAN",
+  "type": "district",
+  "districts": [
+   "Northeim"
+  ],
+  "origin": "Bad Gandersheim",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "GAP",
+  "type": "district",
+  "districts": [
+   "Garmisch-Partenkirchen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GC",
+  "type": "district",
+  "districts": [
+   "Zwickau"
+  ],
+  "origin": "Glauchau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "GD",
+  "type": "district",
+  "districts": [
+   "Ostalbkreis"
+  ],
+  "origin": "Schwäbisch Gmünd",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "GDB",
+  "type": "district",
+  "districts": [
+   "Nordwestmecklenburg"
+  ],
+  "origin": "Gadebusch",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "GE",
+  "type": "district",
+  "districts": [
+   "Gelsenkirchen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GEL",
+  "type": "district",
+  "districts": [
+   "Kleve"
+  ],
+  "origin": "Geldern",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GEM",
+  "type": "district",
+  "districts": [
+   "Main-Spessart"
+  ],
+  "origin": "Gemünden am Main",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GEO",
+  "type": "district",
+  "districts": [
+   "Landkreis Schweinfurt",
+   "Haßberge"
+  ],
+  "origin": "Gerolzhofen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GER",
+  "type": "district",
+  "districts": [
+   "Germersheim"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "GF",
+  "type": "district",
+  "districts": [
+   "Gifhorn"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "GG",
+  "type": "district",
+  "districts": [
+   "Groß-Gerau"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "GHA",
+  "type": "district",
+  "districts": [
+   "Landkreis Leipzig"
+  ],
+  "origin": "Geithain",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "GHC",
+  "type": "district",
+  "districts": [
+   "Wittenberg"
+  ],
+  "origin": "Gräfenhainichen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "GI",
+  "type": "district",
+  "districts": [
+   "Gießen"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "GK",
+  "type": "district",
+  "districts": [
+   "Heinsberg"
+  ],
+  "origin": "Geilenkirchen",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GL",
+  "type": "district",
+  "districts": [
+   "Rheinisch-Bergischer Kreis"
+  ],
+  "origin": "Bergisch Gladbach",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GLA",
+  "type": "district",
+  "districts": [
+   "Recklinghausen"
+  ],
+  "origin": "Gladbeck",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GM",
+  "type": "district",
+  "districts": [
+   "Oberbergischer Kreis"
+  ],
+  "origin": "Gummersbach",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GMN",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Rügen"
+  ],
+  "origin": "Grimmen",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "GN",
+  "type": "district",
+  "districts": [
+   "Main-Kinzig-Kreis"
+  ],
+  "origin": "Gelnhausen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "GNT",
+  "type": "district",
+  "districts": [
+   "Jerichower Land"
+  ],
+  "origin": "Genthin",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "GOA",
+  "type": "district",
+  "districts": [
+   "Rhein-Hunsrück-Kreis"
+  ],
+  "origin": "St. Goar",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "GOH",
+  "type": "district",
+  "districts": [
+   "Rhein-Lahn-Kreis"
+  ],
+  "origin": "St. Goarshausen",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "GÖ",
+  "type": "district",
+  "districts": [
+   "Landkreis Göttingen"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "GP",
+  "type": "district",
+  "districts": [
+   "Göppingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "GR",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "GRA",
+  "type": "district",
+  "districts": [
+   "Freyung-Grafenau"
+  ],
+  "origin": "Grafenau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GRH",
+  "type": "district",
+  "districts": [
+   "Meißen"
+  ],
+  "origin": "Großenhain",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "GRI",
+  "type": "district",
+  "districts": [
+   "Rottal-Inn"
+  ],
+  "origin": "Bad Griesbach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GRM",
+  "type": "district",
+  "districts": [
+   "Landkreis Leipzig"
+  ],
+  "origin": "Grimma",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "GRS",
+  "type": "district",
+  "districts": [
+   "Oberhavel"
+  ],
+  "origin": "Gransee",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "GRZ",
+  "type": "district",
+  "districts": [
+   "Greiz"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "GS",
+  "type": "district",
+  "districts": [
+   "Goslar"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "GT",
+  "type": "district",
+  "districts": [
+   "Gütersloh"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GTH",
+  "type": "district",
+  "districts": [
+   "Gotha"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "GUB",
+  "type": "district",
+  "districts": [
+   "Spree-Neiße"
+  ],
+  "origin": "Guben",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "GUN",
+  "type": "district",
+  "districts": [
+   "Weißenburg-Gunzenhausen"
+  ],
+  "origin": "Gunzenhausen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "GÜ",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": "Güstrow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "GV",
+  "type": "district",
+  "districts": [
+   "Rhein-Kreis Neuss"
+  ],
+  "origin": "Grevenbroich",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "GVM",
+  "type": "district",
+  "districts": [
+   "Nordwestmecklenburg"
+  ],
+  "origin": "Grevesmühlen",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "GW",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "GZ",
+  "type": "district",
+  "districts": [
+   "Günzburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "H",
+  "type": "district",
+  "districts": [
+   "Region Hannover"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HA",
+  "type": "district",
+  "districts": [
+   "Hagen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HAB",
+  "type": "district",
+  "districts": [
+   "Bad Kissingen"
+  ],
+  "origin": "Hammelburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HAL",
+  "type": "district",
+  "districts": [
+   "Halle (Saale)"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HAM",
+  "type": "district",
+  "districts": [
+   "Hamm"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HAS",
+  "type": "district",
+  "districts": [
+   "Haßberge"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HB",
+  "type": "district",
+  "districts": [
+   "Bremen",
+   "Bremerhaven"
+  ],
+  "origin": null,
+  "states": [
+   "Bremen"
+  ],
+  "statesEn": [
+   "Bremen"
+  ]
+ },
+ {
+  "code": "HBN",
+  "type": "district",
+  "districts": [
+   "Hildburghausen"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "HBS",
+  "type": "district",
+  "districts": [
+   "Harz"
+  ],
+  "origin": "Halberstadt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HC",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Hainichen",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "HCH",
+  "type": "district",
+  "districts": [
+   "Zollernalbkreis",
+   "Freudenstadt"
+  ],
+  "origin": "Hechingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "HD",
+  "type": "district",
+  "districts": [
+   "Heidelberg",
+   "Rhein-Neckar-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "HDH",
+  "type": "district",
+  "districts": [
+   "Heidenheim"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "HDL",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Haldensleben",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HE",
+  "type": "district",
+  "districts": [
+   "Helmstedt"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HEB",
+  "type": "district",
+  "districts": [
+   "Nürnberger Land"
+  ],
+  "origin": "Hersbruck",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HEF",
+  "type": "district",
+  "districts": [
+   "Hersfeld-Rotenburg"
+  ],
+  "origin": "Bad Hersfeld",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HEI",
+  "type": "district",
+  "districts": [
+   "Dithmarschen"
+  ],
+  "origin": "Heide",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "HEL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Hesse"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HER",
+  "type": "district",
+  "districts": [
+   "Herne"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HET",
+  "type": "district",
+  "districts": [
+   "Mansfeld-Südharz"
+  ],
+  "origin": "Hettstedt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HF",
+  "type": "district",
+  "districts": [
+   "Herford"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HG",
+  "type": "district",
+  "districts": [
+   "Hochtaunuskreis"
+  ],
+  "origin": "Bad Homburg vor der Höhe",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HGN",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": "Hagenow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "HGW",
+  "type": "district",
+  "districts": [
+   "Greifswald"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "HH",
+  "type": "district",
+  "districts": [
+   "Hamburg"
+  ],
+  "origin": null,
+  "states": [
+   "Hamburg"
+  ],
+  "statesEn": [
+   "Hamburg"
+  ]
+ },
+ {
+  "code": "HHM",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": "Hohenmölsen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HI",
+  "type": "district",
+  "districts": [
+   "Landkreis Hildesheim"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HIG",
+  "type": "district",
+  "districts": [
+   "Eichsfeld"
+  ],
+  "origin": "Heilbad Heiligenstadt",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "HIP",
+  "type": "district",
+  "districts": [
+   "Roth"
+  ],
+  "origin": "Hilpoltstein",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HK",
+  "type": "district",
+  "districts": [
+   "Heidekreis"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HL",
+  "type": "district",
+  "districts": [
+   "Lübeck"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "HM",
+  "type": "district",
+  "districts": [
+   "Hameln-Pyrmont"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HMÜ",
+  "type": "district",
+  "districts": [
+   "Göttingen"
+  ],
+  "origin": "Hann. Münden",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HN",
+  "type": "district",
+  "districts": [
+   "Heilbronn",
+   "Landkreis Heilbronn"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "HO",
+  "type": "district",
+  "districts": [
+   "Hof",
+   "Landkreis Hof"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HOG",
+  "type": "district",
+  "districts": [
+   "Landkreis Kassel"
+  ],
+  "origin": "Hofgeismar",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HOH",
+  "type": "district",
+  "districts": [
+   "Haßberge"
+  ],
+  "origin": "Hofheim in Unterfranken",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HOL",
+  "type": "district",
+  "districts": [
+   "Holzminden"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "HOM",
+  "type": "district",
+  "districts": [
+   "Saarpfalz-Kreis"
+  ],
+  "origin": "Homburg",
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "HOR",
+  "type": "district",
+  "districts": [
+   "Freudenstadt"
+  ],
+  "origin": "Horb am Neckar",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "HOT",
+  "type": "district",
+  "districts": [
+   "Zwickau"
+  ],
+  "origin": "Hohenstein-Ernstthal",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "HÖS",
+  "type": "district",
+  "districts": [
+   "Erlangen-Höchstadt"
+  ],
+  "origin": "Höchstadt an der Aisch",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "HP",
+  "type": "district",
+  "districts": [
+   "Bergstraße"
+  ],
+  "origin": "Heppenheim",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HR",
+  "type": "district",
+  "districts": [
+   "Schwalm-Eder-Kreis"
+  ],
+  "origin": "Homberg (Efze)",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HRO",
+  "type": "district",
+  "districts": [
+   "Rostock"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "HS",
+  "type": "district",
+  "districts": [
+   "Heinsberg"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HSK",
+  "type": "district",
+  "districts": [
+   "Hochsauerlandkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HST",
+  "type": "district",
+  "districts": [
+   "Stralsund"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "HU",
+  "type": "district",
+  "districts": [
+   "Main-Kinzig-Kreis"
+  ],
+  "origin": "Hanau",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HUS",
+  "type": "district",
+  "districts": [
+   "Nordfriesland"
+  ],
+  "origin": "Husum",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "HÜN",
+  "type": "district",
+  "districts": [
+   "Fulda"
+  ],
+  "origin": "Hünfeld",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "HV",
+  "type": "district",
+  "districts": [
+   "Stendal"
+  ],
+  "origin": "Havelberg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "HVL",
+  "type": "district",
+  "districts": [
+   "Havelland"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "HW",
+  "type": "district",
+  "districts": [
+   "Gütersloh"
+  ],
+  "origin": "Halle (Westfalen)",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HWI",
+  "type": "district",
+  "districts": [
+   "Wismar"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "HX",
+  "type": "district",
+  "districts": [
+   "Höxter"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "HY",
+  "type": "district",
+  "districts": [
+   "Bautzen"
+  ],
+  "origin": "Hoyerswerda",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "HZ",
+  "type": "district",
+  "districts": [
+   "Harz"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "IGB",
+  "type": "district",
+  "districts": [
+   "Saarpfalz-Kreis"
+  ],
+  "origin": "St. Ingbert",
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "IK",
+  "type": "district",
+  "districts": [
+   "Ilm-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "IL",
+  "type": "district",
+  "districts": [
+   "Ilm-Kreis"
+  ],
+  "origin": "Ilmenau",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ILL",
+  "type": "district",
+  "districts": [
+   "Neu-Ulm"
+  ],
+  "origin": "Illertissen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "IN",
+  "type": "district",
+  "districts": [
+   "Ingolstadt"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "IS",
+  "type": "district",
+  "districts": [
+   "Märkischer Kreis"
+  ],
+  "origin": "Iserlohn",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "IZ",
+  "type": "district",
+  "districts": [
+   "Steinburg"
+  ],
+  "origin": "Itzehoe",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "J",
+  "type": "district",
+  "districts": [
+   "Jena"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "JB",
+  "type": "district",
+  "districts": [
+   "Teltow-Fläming"
+  ],
+  "origin": "Jüterbog",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "JE",
+  "type": "district",
+  "districts": [
+   "Wittenberg"
+  ],
+  "origin": "Jessen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "JEV",
+  "type": "district",
+  "districts": [
+   "Friesland"
+  ],
+  "origin": "Jever",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "JL",
+  "type": "district",
+  "districts": [
+   "Jerichower Land"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "JÜL",
+  "type": "district",
+  "districts": [
+   "Düren"
+  ],
+  "origin": "Jülich",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "K",
+  "type": "district",
+  "districts": [
+   "Köln"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "KA",
+  "type": "district",
+  "districts": [
+   "Karlsruhe",
+   "Landkreis Karlsruhe"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "KAR",
+  "type": "district",
+  "districts": [
+   "Main-Spessart"
+  ],
+  "origin": "Karlstadt",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KB",
+  "type": "district",
+  "districts": [
+   "Waldeck-Frankenberg"
+  ],
+  "origin": "Korbach",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "KC",
+  "type": "district",
+  "districts": [
+   "Kronach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KE",
+  "type": "district",
+  "districts": [
+   "Kempten (Allgäu)"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KEH",
+  "type": "district",
+  "districts": [
+   "Kelheim"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KEL",
+  "type": "district",
+  "districts": [
+   "Ortenaukreis"
+  ],
+  "origin": "Kehl",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "KEM",
+  "type": "district",
+  "districts": [
+   "Tirschenreuth",
+   "Landkreis Bayreuth"
+  ],
+  "origin": "Kemnath",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KF",
+  "type": "district",
+  "districts": [
+   "Kaufbeuren"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KG",
+  "type": "district",
+  "districts": [
+   "Bad Kissingen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KH",
+  "type": "district",
+  "districts": [
+   "Bad Kreuznach"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "KI",
+  "type": "district",
+  "districts": [
+   "Kiel"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "KIB",
+  "type": "district",
+  "districts": [
+   "Donnersbergkreis"
+  ],
+  "origin": "Kirchheimbolanden",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "KK",
+  "type": "district",
+  "districts": [
+   "Viersen"
+  ],
+  "origin": "Kempen-Krefeld",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "KL",
+  "type": "district",
+  "districts": [
+   "Kaiserslautern",
+   "Landkreis Kaiserslautern"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "KLE",
+  "type": "district",
+  "districts": [
+   "Kleve"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "KLT",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": "Klingenthal",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "KLZ",
+  "type": "district",
+  "districts": [
+   "Altmarkkreis Salzwedel"
+  ],
+  "origin": "Klötze",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "KM",
+  "type": "district",
+  "districts": [
+   "Bautzen"
+  ],
+  "origin": "Kamenz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "KN",
+  "type": "district",
+  "districts": [
+   "Konstanz"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "KO",
+  "type": "district",
+  "districts": [
+   "Koblenz"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "KÖN",
+  "type": "district",
+  "districts": [
+   "Rhön-Grabfeld"
+  ],
+  "origin": "Bad Königshofen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KÖT",
+  "type": "district",
+  "districts": [
+   "Anhalt-Bitterfeld"
+  ],
+  "origin": "Köthen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "KÖZ",
+  "type": "district",
+  "districts": [
+   "Cham"
+  ],
+  "origin": "Bad Kötzting",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KR",
+  "type": "district",
+  "districts": [
+   "Krefeld"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "KRU",
+  "type": "district",
+  "districts": [
+   "Günzburg"
+  ],
+  "origin": "Krumbach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KS",
+  "type": "district",
+  "districts": [
+   "Kassel",
+   "Landkreis Kassel"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "KT",
+  "type": "district",
+  "districts": [
+   "Kitzingen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KU",
+  "type": "district",
+  "districts": [
+   "Kulmbach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "KUS",
+  "type": "district",
+  "districts": [
+   "Kusel"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "KÜN",
+  "type": "district",
+  "districts": [
+   "Hohenlohekreis"
+  ],
+  "origin": "Künzelsau",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "KW",
+  "type": "district",
+  "districts": [
+   "Dahme-Spreewald"
+  ],
+  "origin": "Königs Wusterhausen",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "KY",
+  "type": "district",
+  "districts": [
+   "Ostprignitz-Ruppin"
+  ],
+  "origin": "Kyritz",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "KYF",
+  "type": "district",
+  "districts": [
+   "Kyffhäuserkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "L",
+  "type": "district",
+  "districts": [
+   "Leipzig",
+   "Landkreis Leipzig"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "LA",
+  "type": "district",
+  "districts": [
+   "Landshut",
+   "Landkreis Landshut"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LAN",
+  "type": "district",
+  "districts": [
+   "Dingolfing-Landau"
+  ],
+  "origin": "Landau an der Isar",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LAT",
+  "type": "district",
+  "districts": [
+   "Vogelsbergkreis"
+  ],
+  "origin": "Lauterbach",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "LAU",
+  "type": "district",
+  "districts": [
+   "Nürnberger Land"
+  ],
+  "origin": "Lauf an der Pegnitz",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LB",
+  "type": "district",
+  "districts": [
+   "Ludwigsburg"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "LBS",
+  "type": "district",
+  "districts": [
+   "Saale-Orla-Kreis"
+  ],
+  "origin": "Bad Lobenstein",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "LBZ",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": "Lübz",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "LC",
+  "type": "district",
+  "districts": [
+   "Dahme-Spreewald"
+  ],
+  "origin": "Luckau",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LD",
+  "type": "district",
+  "districts": [
+   "Landau in der Pfalz"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "LDK",
+  "type": "district",
+  "districts": [
+   "Lahn-Dill-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "LDS",
+  "type": "district",
+  "districts": [
+   "Dahme-Spreewald"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LE",
+  "type": "district",
+  "districts": [
+   "Lippe"
+  ],
+  "origin": "Lemgo",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LEO",
+  "type": "district",
+  "districts": [
+   "Böblingen"
+  ],
+  "origin": "Leonberg",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "LER",
+  "type": "district",
+  "districts": [
+   "Leer"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "LEV",
+  "type": "district",
+  "districts": [
+   "Leverkusen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LF",
+  "type": "district",
+  "districts": [
+   "Berchtesgadener Land",
+   "Traunstein",
+   "Altötting"
+  ],
+  "origin": "Laufen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LG",
+  "type": "district",
+  "districts": [
+   "Lüneburg"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "LH",
+  "type": "district",
+  "districts": [
+   "Coesfeld",
+   "Unna"
+  ],
+  "origin": "Lüdinghausen",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LI",
+  "type": "district",
+  "districts": [
+   "Lindau (Bodensee)"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LIB",
+  "type": "district",
+  "districts": [
+   "Elbe-Elster"
+  ],
+  "origin": "Bad Liebenwerda",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LIF",
+  "type": "district",
+  "districts": [
+   "Lichtenfels"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LIN",
+  "type": "district",
+  "districts": [
+   "Emsland"
+  ],
+  "origin": "Lingen",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "LIP",
+  "type": "district",
+  "districts": [
+   "Lippe"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LK",
+  "type": "district",
+  "districts": [
+   "Minden-Lübbecke"
+  ],
+  "origin": "Lübbecke",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LL",
+  "type": "district",
+  "districts": [
+   "Landsberg am Lech"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LM",
+  "type": "district",
+  "districts": [
+   "Limburg-Weilburg"
+  ],
+  "origin": "Limburg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "LN",
+  "type": "district",
+  "districts": [
+   "Dahme-Spreewald"
+  ],
+  "origin": "Lübben",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LOH",
+  "type": "district",
+  "districts": [
+   "Main-Spessart"
+  ],
+  "origin": "Lohr am Main",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "LOS",
+  "type": "district",
+  "districts": [
+   "Oder-Spree"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LÖ",
+  "type": "district",
+  "districts": [
+   "Lörrach"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "LÖB",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": "Löbau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "LP",
+  "type": "district",
+  "districts": [
+   "Soest"
+  ],
+  "origin": "Lippstadt",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LR",
+  "type": "district",
+  "districts": [
+   "Ortenaukreis"
+  ],
+  "origin": "Lahr",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "LRO",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "LS",
+  "type": "district",
+  "districts": [
+   "Märkischer Kreis"
+  ],
+  "origin": "Lüdenscheid",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LSA",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Saxony-Anhalt"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "LSN",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Saxony"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "LSZ",
+  "type": "district",
+  "districts": [
+   "Unstrut-Hainich-Kreis"
+  ],
+  "origin": "Bad Langensalza",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "LU",
+  "type": "district",
+  "districts": [
+   "Ludwigshafen am Rhein",
+   "Rhein-Pfalz-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "LUK",
+  "type": "district",
+  "districts": [
+   "Teltow-Fläming"
+  ],
+  "origin": "Luckenwalde",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "LUP",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "LÜD",
+  "type": "district",
+  "districts": [
+   "Märkischer Kreis"
+  ],
+  "origin": "Lüdenscheid",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LÜN",
+  "type": "district",
+  "districts": [
+   "Unna"
+  ],
+  "origin": "Lünen",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "LWL",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": "Ludwigslust",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "M",
+  "type": "district",
+  "districts": [
+   "München",
+   "Landkreis München"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MA",
+  "type": "district",
+  "districts": [
+   "Mannheim"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "MAB",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Marienberg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "MAI",
+  "type": "district",
+  "districts": [
+   "Kelheim",
+   "Landkreis Landshut"
+  ],
+  "origin": "Mainburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MAK",
+  "type": "district",
+  "districts": [
+   "Wunsiedel im Fichtelgebirge"
+  ],
+  "origin": "Marktredwitz",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MAL",
+  "type": "district",
+  "districts": [
+   "Straubing-Bogen",
+   "Landkreis Landshut"
+  ],
+  "origin": "Mallersdorf",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MAR",
+  "type": "district",
+  "districts": [
+   "Main-Spessart"
+  ],
+  "origin": "Marktheidenfeld",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MB",
+  "type": "district",
+  "districts": [
+   "Miesbach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MC",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Malchin",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "MD",
+  "type": "district",
+  "districts": [
+   "Magdeburg"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "ME",
+  "type": "district",
+  "districts": [
+   "Mettmann"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MED",
+  "type": "district",
+  "districts": [
+   "Dithmarschen"
+  ],
+  "origin": "Meldorf",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "MEG",
+  "type": "district",
+  "districts": [
+   "Schwalm-Eder-Kreis"
+  ],
+  "origin": "Melsungen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "MEI",
+  "type": "district",
+  "districts": [
+   "Meißen"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "MEK",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Mittlerer Erzgebirgskreis",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "MEL",
+  "type": "district",
+  "districts": [
+   "Landkreis Osnabrück"
+  ],
+  "origin": "Melle",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "MEP",
+  "type": "district",
+  "districts": [
+   "Emsland"
+  ],
+  "origin": "Meppen",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "MER",
+  "type": "district",
+  "districts": [
+   "Saalekreis"
+  ],
+  "origin": "Merseburg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "MES",
+  "type": "district",
+  "districts": [
+   "Hochsauerlandkreis"
+  ],
+  "origin": "Meschede",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MET",
+  "type": "district",
+  "districts": [
+   "Rhön-Grabfeld"
+  ],
+  "origin": "Mellrichstadt",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MG",
+  "type": "district",
+  "districts": [
+   "Mönchengladbach"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MGH",
+  "type": "district",
+  "districts": [
+   "Main-Tauber-Kreis"
+  ],
+  "origin": "Bad Mergentheim",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "MGN",
+  "type": "district",
+  "districts": [
+   "Schmalkalden-Meiningen"
+  ],
+  "origin": "Meiningen",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "MH",
+  "type": "district",
+  "districts": [
+   "Mülheim an der Ruhr"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MHL",
+  "type": "district",
+  "districts": [
+   "Unstrut-Hainich-Kreis"
+  ],
+  "origin": "Mühlhausen",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "MI",
+  "type": "district",
+  "districts": [
+   "Minden-Lübbecke"
+  ],
+  "origin": "Minden",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MIL",
+  "type": "district",
+  "districts": [
+   "Miltenberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MK",
+  "type": "district",
+  "districts": [
+   "Märkischer Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MKK",
+  "type": "district",
+  "districts": [
+   "Main-Kinzig-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ML",
+  "type": "district",
+  "districts": [
+   "Mansfeld-Südharz"
+  ],
+  "origin": "Mansfelder Land",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "MM",
+  "type": "district",
+  "districts": [
+   "Memmingen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MN",
+  "type": "district",
+  "districts": [
+   "Unterallgäu"
+  ],
+  "origin": "Mindelheim",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MO",
+  "type": "district",
+  "districts": [
+   "Wesel"
+  ],
+  "origin": "Moers",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MOD",
+  "type": "district",
+  "districts": [
+   "Ostallgäu"
+  ],
+  "origin": "Marktoberdorf",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MOL",
+  "type": "district",
+  "districts": [
+   "Märkisch-Oderland"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "MON",
+  "type": "district",
+  "districts": [
+   "Städteregion Aachen",
+   "Düren"
+  ],
+  "origin": "Monschau",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MOS",
+  "type": "district",
+  "districts": [
+   "Neckar-Odenwald-Kreis"
+  ],
+  "origin": "Mosbach",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "MQ",
+  "type": "district",
+  "districts": [
+   "Saalekreis"
+  ],
+  "origin": "Merseburg-Querfurt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "MR",
+  "type": "district",
+  "districts": [
+   "Marburg-Biedenkopf"
+  ],
+  "origin": "Marburg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "MS",
+  "type": "district",
+  "districts": [
+   "Münster"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "MSE",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "MSH",
+  "type": "district",
+  "districts": [
+   "Mansfeld-Südharz"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "MSP",
+  "type": "district",
+  "districts": [
+   "Main-Spessart"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MST",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Mecklenburg-Strelitz",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "MT",
+  "type": "district",
+  "districts": [
+   "Westerwaldkreis"
+  ],
+  "origin": "Montabaur",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "MTK",
+  "type": "district",
+  "districts": [
+   "Main-Taunus-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "MTL",
+  "type": "district",
+  "districts": [
+   "Landkreis Leipzig"
+  ],
+  "origin": "Muldentalkreis",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "MÜ",
+  "type": "district",
+  "districts": [
+   "Mühldorf am Inn"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MÜB",
+  "type": "district",
+  "districts": [
+   "Landkreis Hof",
+   "Landkreis Bayreuth"
+  ],
+  "origin": "Münchberg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "MÜL",
+  "type": "district",
+  "districts": [
+   "Breisgau-Hochschwarzwald"
+  ],
+  "origin": "Müllheim im Markgräflerland",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "MÜN",
+  "type": "district",
+  "districts": [
+   "Reutlingen"
+  ],
+  "origin": "Münsingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "MÜR",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Müritz",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "MVL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Mecklenburg-Western Pomerania"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "MW",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Mittweida",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "MY",
+  "type": "district",
+  "districts": [
+   "Mayen-Koblenz"
+  ],
+  "origin": "Mayen",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "MYK",
+  "type": "district",
+  "districts": [
+   "Mayen-Koblenz"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "MZ",
+  "type": "district",
+  "districts": [
+   "Mainz",
+   "Mainz-Bingen"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "MZG",
+  "type": "district",
+  "districts": [
+   "Merzig-Wadern"
+  ],
+  "origin": "Merzig",
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "N",
+  "type": "district",
+  "districts": [
+   "Nürnberg",
+   "Nürnberger Land"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NAB",
+  "type": "district",
+  "districts": [
+   "Schwandorf",
+   "Amberg-Sulzbach"
+  ],
+  "origin": "Nabburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NAI",
+  "type": "district",
+  "districts": [
+   "Landkreis Hof"
+  ],
+  "origin": "Naila",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NAU",
+  "type": "district",
+  "districts": [
+   "Havelland"
+  ],
+  "origin": "Nauen",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "NB",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Neubrandenburg",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "ND",
+  "type": "district",
+  "districts": [
+   "Neuburg-Schrobenhausen"
+  ],
+  "origin": "Neuburg an der Donau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NDH",
+  "type": "district",
+  "districts": [
+   "Nordhausen"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "NE",
+  "type": "district",
+  "districts": [
+   "Rhein-Kreis Neuss"
+  ],
+  "origin": "Neuss",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "NEA",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Aisch-Bad Windsheim"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NEB",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": "Nebra",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "NEC",
+  "type": "district",
+  "districts": [
+   "Landkreis Coburg"
+  ],
+  "origin": "Neustadt bei Coburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NEN",
+  "type": "district",
+  "districts": [
+   "Schwandorf"
+  ],
+  "origin": "Neunburg vorm Wald",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NES",
+  "type": "district",
+  "districts": [
+   "Rhön-Grabfeld"
+  ],
+  "origin": "Bad Neustadt an der Saale",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NEU",
+  "type": "district",
+  "districts": [
+   "Breisgau-Hochschwarzwald"
+  ],
+  "origin": "Titisee-Neustadt",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "NEW",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Waldnaab"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NF",
+  "type": "district",
+  "districts": [
+   "Nordfriesland"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "NH",
+  "type": "district",
+  "districts": [
+   "Sonneberg"
+  ],
+  "origin": "Neuhaus am Rennweg",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "NI",
+  "type": "district",
+  "districts": [
+   "Nienburg (Weser)"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NIB",
+  "type": "district",
+  "districts": [
+   "Nordfriesland"
+  ],
+  "origin": "Niebüll",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "NK",
+  "type": "district",
+  "districts": [
+   "Neunkirchen"
+  ],
+  "origin": null,
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "NL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Lower Saxony"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NM",
+  "type": "district",
+  "districts": [
+   "Neumarkt in der Oberpfalz"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NMB",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": "Naumburg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "NMS",
+  "type": "district",
+  "districts": [
+   "Neumünster"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "NOH",
+  "type": "district",
+  "districts": [
+   "Grafschaft Bentheim"
+  ],
+  "origin": "Nordhorn",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NOL",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": "Niederschlesischer Oberlausitzkreis",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "NOM",
+  "type": "district",
+  "districts": [
+   "Northeim"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NOR",
+  "type": "district",
+  "districts": [
+   "Aurich"
+  ],
+  "origin": "Norden",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NÖ",
+  "type": "district",
+  "districts": [
+   "Donau-Ries"
+  ],
+  "origin": "Nördlingen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NP",
+  "type": "district",
+  "districts": [
+   "Ostprignitz-Ruppin"
+  ],
+  "origin": "Neuruppin",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "NR",
+  "type": "district",
+  "districts": [
+   "Neuwied"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "NRÜ",
+  "type": "district",
+  "districts": [
+   "Region Hannover"
+  ],
+  "origin": "Neustadt am Rübenberge",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "NRW",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of North Rhine-Westphalia"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "NT",
+  "type": "district",
+  "districts": [
+   "Esslingen"
+  ],
+  "origin": "Nürtingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "NU",
+  "type": "district",
+  "districts": [
+   "Neu-Ulm"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "NVP",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Rügen"
+  ],
+  "origin": "Nordvorpommern",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "NW",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Weinstraße"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "NWM",
+  "type": "district",
+  "districts": [
+   "Nordwestmecklenburg"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "NY",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": "Niesky",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "NZ",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Neustrelitz",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "OA",
+  "type": "district",
+  "districts": [
+   "Oberallgäu"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "OAL",
+  "type": "district",
+  "districts": [
+   "Ostallgäu"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "OB",
+  "type": "district",
+  "districts": [
+   "Oberhausen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "OBB",
+  "type": "district",
+  "districts": [
+   "Miltenberg"
+  ],
+  "origin": "Obernburg am Main",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "OBG",
+  "type": "district",
+  "districts": [
+   "Stendal"
+  ],
+  "origin": "Osterburg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "OC",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Oschersleben",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "OCH",
+  "type": "district",
+  "districts": [
+   "Landkreis Würzburg"
+  ],
+  "origin": "Ochsenfurt",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "OD",
+  "type": "district",
+  "districts": [
+   "Stormarn"
+  ],
+  "origin": "Bad Oldesloe",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "OE",
+  "type": "district",
+  "districts": [
+   "Olpe"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "OF",
+  "type": "district",
+  "districts": [
+   "Offenbach am Main",
+   "Landkreis Offenbach"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "OG",
+  "type": "district",
+  "districts": [
+   "Ortenaukreis"
+  ],
+  "origin": "Offenburg",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "OH",
+  "type": "district",
+  "districts": [
+   "Ostholstein"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "OHA",
+  "type": "district",
+  "districts": [
+   "Göttingen"
+  ],
+  "origin": "Osterode am Harz",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "OHV",
+  "type": "district",
+  "districts": [
+   "Oberhavel"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "OHZ",
+  "type": "district",
+  "districts": [
+   "Osterholz"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "OK",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Ohrekreis",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "OL",
+  "type": "district",
+  "districts": [
+   "Oldenburg",
+   "Landkreis Oldenburg"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "OLD",
+  "type": "district",
+  "districts": [
+   "Ostholstein"
+  ],
+  "origin": "Oldenburg in Holstein",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "OP",
+  "type": "district",
+  "districts": [
+   "Leverkusen"
+  ],
+  "origin": "Opladen",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "OPR",
+  "type": "district",
+  "districts": [
+   "Ostprignitz-Ruppin"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "OR",
+  "type": "district",
+  "districts": [
+   "Oberhavel"
+  ],
+  "origin": "Oranienburg",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "OS",
+  "type": "district",
+  "districts": [
+   "Osnabrück",
+   "Landkreis Osnabrück"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "OSL",
+  "type": "district",
+  "districts": [
+   "Oberspreewald-Lausitz"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "OTT",
+  "type": "district",
+  "districts": [
+   "Cuxhaven"
+  ],
+  "origin": "Otterndorf",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "OTW",
+  "type": "district",
+  "districts": [
+   "Neunkirchen"
+  ],
+  "origin": "Ottweiler",
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "OVI",
+  "type": "district",
+  "districts": [
+   "Schwandorf"
+  ],
+  "origin": "Oberviechtach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "OVL",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": "Obervogtland",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "OVP",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Ostvorpommern",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "OZ",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Oschatz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ÖHR",
+  "type": "district",
+  "districts": [
+   "Hohenlohekreis"
+  ],
+  "origin": "Öhringen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "P",
+  "type": "district",
+  "districts": [
+   "Potsdam"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "PA",
+  "type": "district",
+  "districts": [
+   "Passau",
+   "Landkreis Passau"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "PAF",
+  "type": "district",
+  "districts": [
+   "Pfaffenhofen an der Ilm"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "PAN",
+  "type": "district",
+  "districts": [
+   "Rottal-Inn"
+  ],
+  "origin": "Pfarrkirchen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "PAR",
+  "type": "district",
+  "districts": [
+   "Neumarkt in der Oberpfalz",
+   "Kelheim"
+  ],
+  "origin": "Parsberg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "PB",
+  "type": "district",
+  "districts": [
+   "Paderborn"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "PCH",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": "Parchim",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "PE",
+  "type": "district",
+  "districts": [
+   "Peine"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "PEG",
+  "type": "district",
+  "districts": [
+   "Landkreis Bayreuth",
+   "Forchheim",
+   "Nürnberger Land"
+  ],
+  "origin": "Pegnitz",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "PER",
+  "type": "district",
+  "districts": [
+   "Prignitz"
+  ],
+  "origin": "Perleberg",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "PF",
+  "type": "district",
+  "districts": [
+   "Pforzheim",
+   "Enzkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "PI",
+  "type": "district",
+  "districts": [
+   "Pinneberg"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "PIR",
+  "type": "district",
+  "districts": [
+   "Sächsische Schweiz-Osterzgebirge"
+  ],
+  "origin": "Pirna",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "PK",
+  "type": "district",
+  "districts": [
+   "Prignitz"
+  ],
+  "origin": "Pritzwalk",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "PL",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": "Plauen",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "PLÖ",
+  "type": "district",
+  "districts": [
+   "Plön"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "PM",
+  "type": "district",
+  "districts": [
+   "Potsdam-Mittelmark"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "PN",
+  "type": "district",
+  "districts": [
+   "Saale-Orla-Kreis"
+  ],
+  "origin": "Pößneck",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "PR",
+  "type": "district",
+  "districts": [
+   "Prignitz"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "PRÜ",
+  "type": "district",
+  "districts": [
+   "Eifelkreis Bitburg-Prüm"
+  ],
+  "origin": "Prüm",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "PS",
+  "type": "district",
+  "districts": [
+   "Pirmasens",
+   "Südwestpfalz"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "PW",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Pasewalk",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "PZ",
+  "type": "district",
+  "districts": [
+   "Uckermark"
+  ],
+  "origin": "Prenzlau",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "QFT",
+  "type": "district",
+  "districts": [
+   "Saalekreis"
+  ],
+  "origin": "Querfurt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "QLB",
+  "type": "district",
+  "districts": [
+   "Harz"
+  ],
+  "origin": "Quedlinburg",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "R",
+  "type": "district",
+  "districts": [
+   "Regensburg",
+   "Landkreis Regensburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "RA",
+  "type": "district",
+  "districts": [
+   "Rastatt"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "RC",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": "Reichenbach im Vogtland",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "RD",
+  "type": "district",
+  "districts": [
+   "Rendsburg-Eckernförde"
+  ],
+  "origin": "Rendsburg",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "RDG",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Rügen"
+  ],
+  "origin": "Ribnitz-Damgarten",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "RE",
+  "type": "district",
+  "districts": [
+   "Recklinghausen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "REG",
+  "type": "district",
+  "districts": [
+   "Regen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "REH",
+  "type": "district",
+  "districts": [
+   "Landkreis Hof",
+   "Wunsiedel im Fichtelgebirge"
+  ],
+  "origin": "Rehau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "REI",
+  "type": "district",
+  "districts": [
+   "Berchtesgadener Land"
+  ],
+  "origin": "Bad Reichenhall",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "RG",
+  "type": "district",
+  "districts": [
+   "Meißen"
+  ],
+  "origin": "Riesa-Großenhain",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "RH",
+  "type": "district",
+  "districts": [
+   "Roth"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "RI",
+  "type": "district",
+  "districts": [
+   "Schaumburg"
+  ],
+  "origin": "Rinteln",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "RID",
+  "type": "district",
+  "districts": [
+   "Kelheim"
+  ],
+  "origin": "Riedenburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "RIE",
+  "type": "district",
+  "districts": [
+   "Meißen"
+  ],
+  "origin": "Riesa",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "RL",
+  "type": "district",
+  "districts": [
+   "Mittelsachsen"
+  ],
+  "origin": "Rochlitz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "RM",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Röbel/Müritz",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "RN",
+  "type": "district",
+  "districts": [
+   "Havelland"
+  ],
+  "origin": "Rathenow",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "RO",
+  "type": "district",
+  "districts": [
+   "Rosenheim",
+   "Landkreis Rosenheim"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ROD",
+  "type": "district",
+  "districts": [
+   "Cham",
+   "Schwandorf"
+  ],
+  "origin": "Roding",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ROF",
+  "type": "district",
+  "districts": [
+   "Hersfeld-Rotenburg"
+  ],
+  "origin": "Rotenburg an der Fulda",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ROH",
+  "type": "district",
+  "districts": [
+   "Rotenburg (Wümme)"
+  ],
+  "origin": "Rotenburg in Hannover",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "ROK",
+  "type": "district",
+  "districts": [
+   "Donnersbergkreis"
+  ],
+  "origin": "Rockenhausen",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "ROL",
+  "type": "district",
+  "districts": [
+   "Landkreis Landshut",
+   "Kelheim"
+  ],
+  "origin": "Rottenburg an der Laaber",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ROS",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "ROT",
+  "type": "district",
+  "districts": [
+   "Landkreis Ansbach"
+  ],
+  "origin": "Rothenburg ob der Tauber",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "ROW",
+  "type": "district",
+  "districts": [
+   "Rotenburg (Wümme)"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "RP",
+  "type": "district",
+  "districts": [
+   "Rhein-Pfalz-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "RPL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Rhineland-Palatinate"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "RS",
+  "type": "district",
+  "districts": [
+   "Remscheid"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "RSL",
+  "type": "district",
+  "districts": [
+   "Dessau-Roßlau"
+  ],
+  "origin": "Roßlau",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "RT",
+  "type": "district",
+  "districts": [
+   "Reutlingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "RU",
+  "type": "district",
+  "districts": [
+   "Saalfeld-Rudolstadt"
+  ],
+  "origin": "Rudolstadt",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "RÜD",
+  "type": "district",
+  "districts": [
+   "Rheingau-Taunus-Kreis"
+  ],
+  "origin": "Rüdesheim am Rhein",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "RÜG",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Rügen"
+  ],
+  "origin": "Rügen",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "RV",
+  "type": "district",
+  "districts": [
+   "Ravensburg"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "RW",
+  "type": "district",
+  "districts": [
+   "Rottweil"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "RWL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of North Rhine-Westphalia (former code, now NRW)"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "RY",
+  "type": "district",
+  "districts": [
+   "Mönchengladbach"
+  ],
+  "origin": "Rheydt",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "RZ",
+  "type": "district",
+  "districts": [
+   "Herzogtum Lauenburg"
+  ],
+  "origin": "Ratzeburg",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "S",
+  "type": "district",
+  "districts": [
+   "Stuttgart"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SAB",
+  "type": "district",
+  "districts": [
+   "Trier-Saarburg"
+  ],
+  "origin": "Saarburg",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "SAD",
+  "type": "district",
+  "districts": [
+   "Schwandorf"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SAL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Saarland"
+  ],
+  "origin": null,
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "SAN",
+  "type": "district",
+  "districts": [
+   "Kulmbach",
+   "Kronach",
+   "Landkreis Hof"
+  ],
+  "origin": "Stadtsteinach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SAW",
+  "type": "district",
+  "districts": [
+   "Altmarkkreis Salzwedel"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SÄK",
+  "type": "district",
+  "districts": [
+   "Waldshut"
+  ],
+  "origin": "Bad Säckingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SB",
+  "type": "district",
+  "districts": [
+   "Regionalverband Saarbrücken"
+  ],
+  "origin": null,
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "SBG",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Strasburg",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "SBK",
+  "type": "district",
+  "districts": [
+   "Salzlandkreis"
+  ],
+  "origin": "Schönebeck",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SC",
+  "type": "district",
+  "districts": [
+   "Schwabach"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SCZ",
+  "type": "district",
+  "districts": [
+   "Saale-Orla-Kreis"
+  ],
+  "origin": "Schleiz",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SDH",
+  "type": "district",
+  "districts": [
+   "Kyffhäuserkreis"
+  ],
+  "origin": "Sondershausen",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SDL",
+  "type": "district",
+  "districts": [
+   "Stendal"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SDT",
+  "type": "district",
+  "districts": [
+   "Uckermark"
+  ],
+  "origin": "Schwedt/Oder",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SE",
+  "type": "district",
+  "districts": [
+   "Segeberg"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "SEB",
+  "type": "district",
+  "districts": [
+   "Sächsische Schweiz-Osterzgebirge"
+  ],
+  "origin": "Sebnitz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "SEE",
+  "type": "district",
+  "districts": [
+   "Märkisch-Oderland"
+  ],
+  "origin": "Seelow",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SEF",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Aisch-Bad Windsheim"
+  ],
+  "origin": "Scheinfeld",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SEL",
+  "type": "district",
+  "districts": [
+   "Wunsiedel im Fichtelgebirge"
+  ],
+  "origin": "Selb",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SF",
+  "type": "district",
+  "districts": [
+   "Oberallgäu"
+  ],
+  "origin": "Sonthofen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SFA",
+  "type": "district",
+  "districts": [
+   "Heidekreis"
+  ],
+  "origin": "Soltau-Fallingbostel",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SFB",
+  "type": "district",
+  "districts": [
+   "Oberspreewald-Lausitz"
+  ],
+  "origin": "Senftenberg",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SFT",
+  "type": "district",
+  "districts": [
+   "Salzlandkreis"
+  ],
+  "origin": "Staßfurt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SG",
+  "type": "district",
+  "districts": [
+   "Solingen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "SGH",
+  "type": "district",
+  "districts": [
+   "Mansfeld-Südharz"
+  ],
+  "origin": "Sangerhausen",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SH",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Schleswig-Holstein"
+  ],
+  "origin": null,
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "SHA",
+  "type": "district",
+  "districts": [
+   "Schwäbisch Hall"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SHG",
+  "type": "district",
+  "districts": [
+   "Schaumburg"
+  ],
+  "origin": "Stadthagen",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SHK",
+  "type": "district",
+  "districts": [
+   "Saale-Holzland-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SHL",
+  "type": "district",
+  "districts": [
+   "Suhl"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SI",
+  "type": "district",
+  "districts": [
+   "Siegen-Wittgenstein"
+  ],
+  "origin": "Siegen",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "SIG",
+  "type": "district",
+  "districts": [
+   "Sigmaringen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SIM",
+  "type": "district",
+  "districts": [
+   "Rhein-Hunsrück-Kreis"
+  ],
+  "origin": "Simmern",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "SK",
+  "type": "district",
+  "districts": [
+   "Saalekreis"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SL",
+  "type": "district",
+  "districts": [
+   "Schleswig-Flensburg"
+  ],
+  "origin": "Schleswig",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "SLE",
+  "type": "district",
+  "districts": [
+   "Euskirchen",
+   "Düren"
+  ],
+  "origin": "Schleiden",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "SLF",
+  "type": "district",
+  "districts": [
+   "Saalfeld-Rudolstadt"
+  ],
+  "origin": "Saalfeld",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SLG",
+  "type": "district",
+  "districts": [
+   "Ravensburg",
+   "Sigmaringen"
+  ],
+  "origin": "Bad Saulgau",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SLK",
+  "type": "district",
+  "districts": [
+   "Salzlandkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "SLN",
+  "type": "district",
+  "districts": [
+   "Altenburger Land"
+  ],
+  "origin": "Schmölln",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SLS",
+  "type": "district",
+  "districts": [
+   "Saarlouis"
+  ],
+  "origin": null,
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "SLÜ",
+  "type": "district",
+  "districts": [
+   "Main-Kinzig-Kreis"
+  ],
+  "origin": "Schlüchtern",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "SLZ",
+  "type": "district",
+  "districts": [
+   "Wartburgkreis"
+  ],
+  "origin": "Bad Salzungen",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SM",
+  "type": "district",
+  "districts": [
+   "Schmalkalden-Meiningen"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SMÜ",
+  "type": "district",
+  "districts": [
+   "Landkreis Augsburg"
+  ],
+  "origin": "Schwabmünchen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SN",
+  "type": "district",
+  "districts": [
+   "Schwerin"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "SNH",
+  "type": "district",
+  "districts": [
+   "Rhein-Neckar-Kreis"
+  ],
+  "origin": "Sinsheim",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SO",
+  "type": "district",
+  "districts": [
+   "Soest"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "SOB",
+  "type": "district",
+  "districts": [
+   "Neuburg-Schrobenhausen"
+  ],
+  "origin": "Schrobenhausen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SOG",
+  "type": "district",
+  "districts": [
+   "Weilheim-Schongau"
+  ],
+  "origin": "Schongau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SOK",
+  "type": "district",
+  "districts": [
+   "Saale-Orla-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SOL",
+  "type": "district",
+  "districts": [
+   "Heidekreis"
+  ],
+  "origin": "Soltau",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SON",
+  "type": "district",
+  "districts": [
+   "Sonneberg"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SÖM",
+  "type": "district",
+  "districts": [
+   "Sömmerda"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "SP",
+  "type": "district",
+  "districts": [
+   "Speyer"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "SPB",
+  "type": "district",
+  "districts": [
+   "Spree-Neiße"
+  ],
+  "origin": "Spremberg",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SPN",
+  "type": "district",
+  "districts": [
+   "Spree-Neiße"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SPR",
+  "type": "district",
+  "districts": [
+   "Region Hannover"
+  ],
+  "origin": "Springe",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SR",
+  "type": "district",
+  "districts": [
+   "Straubing",
+   "Straubing-Bogen"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SRB",
+  "type": "district",
+  "districts": [
+   "Märkisch-Oderland"
+  ],
+  "origin": "Strausberg",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "SRO",
+  "type": "district",
+  "districts": [
+   "Saale-Holzland-Kreis"
+  ],
+  "origin": "Stadtroda",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ST",
+  "type": "district",
+  "districts": [
+   "Steinfurt"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "STA",
+  "type": "district",
+  "districts": [
+   "Starnberg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "STB",
+  "type": "district",
+  "districts": [
+   "Ludwigslust-Parchim"
+  ],
+  "origin": "Sternberg",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "STD",
+  "type": "district",
+  "districts": [
+   "Stade"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "STE",
+  "type": "district",
+  "districts": [
+   "Lichtenfels"
+  ],
+  "origin": "Bad Staffelstein",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "STH",
+  "type": "district",
+  "districts": [
+   "Schaumburg"
+  ],
+  "origin": "Stadthagen",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "STL",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Stollberg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "STO",
+  "type": "district",
+  "districts": [
+   "Konstanz",
+   "Sigmaringen"
+  ],
+  "origin": "Stockach",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "SU",
+  "type": "district",
+  "districts": [
+   "Rhein-Sieg-Kreis"
+  ],
+  "origin": "Siegburg",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "SUL",
+  "type": "district",
+  "districts": [
+   "Amberg-Sulzbach"
+  ],
+  "origin": "Sulzbach-Rosenberg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SÜW",
+  "type": "district",
+  "districts": [
+   "Südliche Weinstraße"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "SW",
+  "type": "district",
+  "districts": [
+   "Schweinfurt",
+   "Landkreis Schweinfurt"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "SWA",
+  "type": "district",
+  "districts": [
+   "Rheingau-Taunus-Kreis"
+  ],
+  "origin": "Bad Schwalbach",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "SY",
+  "type": "district",
+  "districts": [
+   "Diepholz"
+  ],
+  "origin": "Syke",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SZ",
+  "type": "district",
+  "districts": [
+   "Salzgitter"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "SZB",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Schwarzenberg",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "TBB",
+  "type": "district",
+  "districts": [
+   "Main-Tauber-Kreis"
+  ],
+  "origin": "Tauberbischofsheim",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "TDO",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Torgau-Delitzsch-Oschatz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "TE",
+  "type": "district",
+  "districts": [
+   "Steinfurt"
+  ],
+  "origin": "Tecklenburg",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "TET",
+  "type": "district",
+  "districts": [
+   "Landkreis Rostock"
+  ],
+  "origin": "Teterow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "TF",
+  "type": "district",
+  "districts": [
+   "Teltow-Fläming"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "TG",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Torgau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "THL",
+  "type": "official",
+  "districts": [
+   "Official vehicles of the state of Thuringia"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "THW",
+  "type": "official",
+  "districts": [
+   "Technisches Hilfswerk (Federal Agency for Technical Relief)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "TIR",
+  "type": "district",
+  "districts": [
+   "Tirschenreuth"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "TO",
+  "type": "district",
+  "districts": [
+   "Nordsachsen"
+  ],
+  "origin": "Torgau-Oschatz",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "TÖL",
+  "type": "district",
+  "districts": [
+   "Bad Tölz-Wolfratshausen"
+  ],
+  "origin": "Bad Tölz",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "TÖN",
+  "type": "district",
+  "districts": [
+   "Nordfriesland"
+  ],
+  "origin": "Tönning",
+  "states": [
+   "Schleswig-Holstein"
+  ],
+  "statesEn": [
+   "Schleswig-Holstein"
+  ]
+ },
+ {
+  "code": "TP",
+  "type": "district",
+  "districts": [
+   "Uckermark"
+  ],
+  "origin": "Templin",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "TR",
+  "type": "district",
+  "districts": [
+   "Trier",
+   "Trier-Saarburg"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "TS",
+  "type": "district",
+  "districts": [
+   "Traunstein"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "TT",
+  "type": "district",
+  "districts": [
+   "Bodenseekreis"
+  ],
+  "origin": "Tettnang",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "TUT",
+  "type": "district",
+  "districts": [
+   "Tuttlingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "TÜ",
+  "type": "district",
+  "districts": [
+   "Tübingen"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "UE",
+  "type": "district",
+  "districts": [
+   "Uelzen"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "UEM",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Ueckermünde",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "UER",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Uecker-Randow",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "UFF",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Aisch-Bad Windsheim"
+  ],
+  "origin": "Uffenheim",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "UH",
+  "type": "district",
+  "districts": [
+   "Unstrut-Hainich-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "UL",
+  "type": "district",
+  "districts": [
+   "Ulm",
+   "Alb-Donau-Kreis"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "UM",
+  "type": "district",
+  "districts": [
+   "Uckermark"
+  ],
+  "origin": null,
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "UN",
+  "type": "district",
+  "districts": [
+   "Unna"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "USI",
+  "type": "district",
+  "districts": [
+   "Hochtaunuskreis"
+  ],
+  "origin": "Usingen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ÜB",
+  "type": "district",
+  "districts": [
+   "Bodenseekreis",
+   "Ravensburg",
+   "Sigmaringen"
+  ],
+  "origin": "Überlingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "V",
+  "type": "district",
+  "districts": [
+   "Vogtlandkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "VAI",
+  "type": "district",
+  "districts": [
+   "Ludwigsburg"
+  ],
+  "origin": "Vaihingen an der Enz",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "VB",
+  "type": "district",
+  "districts": [
+   "Vogelsbergkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "VEC",
+  "type": "district",
+  "districts": [
+   "Vechta"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "VER",
+  "type": "district",
+  "districts": [
+   "Verden"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "VG",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "VIB",
+  "type": "district",
+  "districts": [
+   "Landkreis Landshut",
+   "Rottal-Inn",
+   "Mühldorf am Inn"
+  ],
+  "origin": "Vilsbiburg",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "VIE",
+  "type": "district",
+  "districts": [
+   "Viersen"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "VIT",
+  "type": "district",
+  "districts": [
+   "Regen"
+  ],
+  "origin": "Viechtach",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "VK",
+  "type": "district",
+  "districts": [
+   "Regionalverband Saarbrücken"
+  ],
+  "origin": "Völklingen",
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "VL",
+  "type": "district",
+  "districts": [
+   "Schwarzwald-Baar-Kreis"
+  ],
+  "origin": "Villingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "VOF",
+  "type": "district",
+  "districts": [
+   "Landkreis Passau"
+  ],
+  "origin": "Vilshofen an der Donau",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "VOH",
+  "type": "district",
+  "districts": [
+   "Neustadt an der Waldnaab"
+  ],
+  "origin": "Vohenstrauß",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "VR",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Rügen"
+  ],
+  "origin": null,
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "VS",
+  "type": "district",
+  "districts": [
+   "Schwarzwald-Baar-Kreis"
+  ],
+  "origin": "Villingen-Schwenningen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "W",
+  "type": "district",
+  "districts": [
+   "Wuppertal"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WA",
+  "type": "district",
+  "districts": [
+   "Waldeck-Frankenberg"
+  ],
+  "origin": "Waldeck",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WAF",
+  "type": "district",
+  "districts": [
+   "Warendorf"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WAK",
+  "type": "district",
+  "districts": [
+   "Wartburgkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "WAN",
+  "type": "district",
+  "districts": [
+   "Herne"
+  ],
+  "origin": "Wanne-Eickel",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WAR",
+  "type": "district",
+  "districts": [
+   "Höxter"
+  ],
+  "origin": "Warburg",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WAT",
+  "type": "district",
+  "districts": [
+   "Bochum"
+  ],
+  "origin": "Wattenscheid",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WB",
+  "type": "district",
+  "districts": [
+   "Wittenberg"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "WBS",
+  "type": "district",
+  "districts": [
+   "Eichsfeld"
+  ],
+  "origin": "Worbis",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "WD",
+  "type": "district",
+  "districts": [
+   "Gütersloh"
+  ],
+  "origin": "Wiedenbrück",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WDA",
+  "type": "district",
+  "districts": [
+   "Zwickau"
+  ],
+  "origin": "Werdau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "WE",
+  "type": "district",
+  "districts": [
+   "Weimar"
+  ],
+  "origin": null,
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "WEB",
+  "type": "district",
+  "districts": [
+   "Westerwaldkreis"
+  ],
+  "origin": "Westerburg",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "WEG",
+  "type": "district",
+  "districts": [
+   "Landkreis Passau"
+  ],
+  "origin": "Wegscheid",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WEL",
+  "type": "district",
+  "districts": [
+   "Limburg-Weilburg"
+  ],
+  "origin": "Weilburg",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WEM",
+  "type": "district",
+  "districts": [
+   "Cuxhaven"
+  ],
+  "origin": "Wesermünde",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WEN",
+  "type": "district",
+  "districts": [
+   "Weiden in der Oberpfalz"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WER",
+  "type": "district",
+  "districts": [
+   "Dillingen an der Donau",
+   "Landkreis Augsburg"
+  ],
+  "origin": "Wertingen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WES",
+  "type": "district",
+  "districts": [
+   "Wesel"
+  ],
+  "origin": null,
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WF",
+  "type": "district",
+  "districts": [
+   "Wolfenbüttel"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WG",
+  "type": "district",
+  "districts": [
+   "Ravensburg"
+  ],
+  "origin": "Wangen im Allgäu",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "WHV",
+  "type": "district",
+  "districts": [
+   "Wilhelmshaven"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WI",
+  "type": "district",
+  "districts": [
+   "Wiesbaden"
+  ],
+  "origin": null,
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WIL",
+  "type": "district",
+  "districts": [
+   "Bernkastel-Wittlich"
+  ],
+  "origin": "Wittlich",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "WIS",
+  "type": "district",
+  "districts": [
+   "Nordwestmecklenburg"
+  ],
+  "origin": "Wismar",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "WIT",
+  "type": "district",
+  "districts": [
+   "Ennepe-Ruhr-Kreis"
+  ],
+  "origin": "Witten",
+  "states": [
+   "Nordrhein-Westfalen"
+  ],
+  "statesEn": [
+   "North Rhine-Westphalia"
+  ]
+ },
+ {
+  "code": "WIZ",
+  "type": "district",
+  "districts": [
+   "Werra-Meißner-Kreis"
+  ],
+  "origin": "Witzenhausen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WK",
+  "type": "district",
+  "districts": [
+   "Ostprignitz-Ruppin"
+  ],
+  "origin": "Wittstock",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "WL",
+  "type": "district",
+  "districts": [
+   "Harburg"
+  ],
+  "origin": "Winsen (Luhe)",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WLG",
+  "type": "district",
+  "districts": [
+   "Vorpommern-Greifswald"
+  ],
+  "origin": "Wolgast",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "WM",
+  "type": "district",
+  "districts": [
+   "Weilheim-Schongau"
+  ],
+  "origin": "Weilheim",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WMS",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Wolmirstedt",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "WN",
+  "type": "district",
+  "districts": [
+   "Rems-Murr-Kreis"
+  ],
+  "origin": "Waiblingen",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "WND",
+  "type": "district",
+  "districts": [
+   "St. Wendel"
+  ],
+  "origin": null,
+  "states": [
+   "Saarland"
+  ],
+  "statesEn": [
+   "Saarland"
+  ]
+ },
+ {
+  "code": "WO",
+  "type": "district",
+  "districts": [
+   "Worms"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "WOB",
+  "type": "district",
+  "districts": [
+   "Wolfsburg"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WOH",
+  "type": "district",
+  "districts": [
+   "Landkreis Kassel"
+  ],
+  "origin": "Wolfhagen",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WOL",
+  "type": "district",
+  "districts": [
+   "Ortenaukreis",
+   "Freudenstadt"
+  ],
+  "origin": "Wolfach",
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "WOR",
+  "type": "district",
+  "districts": [
+   "Bad Tölz-Wolfratshausen",
+   "Landkreis München",
+   "Starnberg"
+  ],
+  "origin": "Wolfratshausen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WOS",
+  "type": "district",
+  "districts": [
+   "Freyung-Grafenau"
+  ],
+  "origin": "Wolfstein",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WR",
+  "type": "district",
+  "districts": [
+   "Harz"
+  ],
+  "origin": "Wernigerode",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "WRN",
+  "type": "district",
+  "districts": [
+   "Mecklenburgische Seenplatte"
+  ],
+  "origin": "Waren (Müritz)",
+  "states": [
+   "Mecklenburg-Vorpommern"
+  ],
+  "statesEn": [
+   "Mecklenburg-Western Pomerania"
+  ]
+ },
+ {
+  "code": "WS",
+  "type": "district",
+  "districts": [
+   "Landkreis Rosenheim",
+   "Mühldorf am Inn"
+  ],
+  "origin": "Wasserburg am Inn",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WSF",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": "Weißenfels",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "WST",
+  "type": "district",
+  "districts": [
+   "Ammerland"
+  ],
+  "origin": "Westerstede",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WSW",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": "Weißwasser",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "WT",
+  "type": "district",
+  "districts": [
+   "Waldshut"
+  ],
+  "origin": null,
+  "states": [
+   "Baden-Württemberg"
+  ],
+  "statesEn": [
+   "Baden-Württemberg"
+  ]
+ },
+ {
+  "code": "WTL",
+  "type": "district",
+  "districts": [
+   "Landkreis Osnabrück"
+  ],
+  "origin": "Wittlage",
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WTM",
+  "type": "district",
+  "districts": [
+   "Wittmund"
+  ],
+  "origin": null,
+  "states": [
+   "Niedersachsen"
+  ],
+  "statesEn": [
+   "Lower Saxony"
+  ]
+ },
+ {
+  "code": "WUG",
+  "type": "district",
+  "districts": [
+   "Weißenburg-Gunzenhausen"
+  ],
+  "origin": "Weißenburg in Bayern",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WUN",
+  "type": "district",
+  "districts": [
+   "Wunsiedel im Fichtelgebirge"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WUR",
+  "type": "district",
+  "districts": [
+   "Landkreis Leipzig"
+  ],
+  "origin": "Wurzen",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "WÜ",
+  "type": "district",
+  "districts": [
+   "Würzburg",
+   "Landkreis Würzburg"
+  ],
+  "origin": null,
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WÜM",
+  "type": "district",
+  "districts": [
+   "Cham"
+  ],
+  "origin": "Waldmünchen",
+  "states": [
+   "Bayern"
+  ],
+  "statesEn": [
+   "Bavaria"
+  ]
+ },
+ {
+  "code": "WW",
+  "type": "district",
+  "districts": [
+   "Westerwaldkreis"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "WZ",
+  "type": "district",
+  "districts": [
+   "Lahn-Dill-Kreis"
+  ],
+  "origin": "Wetzlar",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "WZL",
+  "type": "district",
+  "districts": [
+   "Börde"
+  ],
+  "origin": "Wanzleben",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "X",
+  "type": "official",
+  "districts": [
+   "International military headquarters (NATO) in Germany"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "Y",
+  "type": "official",
+  "districts": [
+   "Bundeswehr (German Armed Forces)"
+  ],
+  "origin": null,
+  "states": [],
+  "statesEn": [
+   "Federal (nationwide)"
+  ]
+ },
+ {
+  "code": "Z",
+  "type": "district",
+  "districts": [
+   "Zwickau"
+  ],
+  "origin": null,
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ZE",
+  "type": "district",
+  "districts": [
+   "Anhalt-Bitterfeld"
+  ],
+  "origin": "Zerbst",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ },
+ {
+  "code": "ZEL",
+  "type": "district",
+  "districts": [
+   "Cochem-Zell"
+  ],
+  "origin": "Zell (Mosel)",
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "ZI",
+  "type": "district",
+  "districts": [
+   "Görlitz"
+  ],
+  "origin": "Zittau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ZIG",
+  "type": "district",
+  "districts": [
+   "Schwalm-Eder-Kreis"
+  ],
+  "origin": "Ziegenhain",
+  "states": [
+   "Hessen"
+  ],
+  "statesEn": [
+   "Hesse"
+  ]
+ },
+ {
+  "code": "ZP",
+  "type": "district",
+  "districts": [
+   "Erzgebirgskreis"
+  ],
+  "origin": "Zschopau",
+  "states": [
+   "Sachsen"
+  ],
+  "statesEn": [
+   "Saxony"
+  ]
+ },
+ {
+  "code": "ZR",
+  "type": "district",
+  "districts": [
+   "Greiz"
+  ],
+  "origin": "Zeulenroda",
+  "states": [
+   "Thüringen"
+  ],
+  "statesEn": [
+   "Thuringia"
+  ]
+ },
+ {
+  "code": "ZS",
+  "type": "district",
+  "districts": [
+   "Teltow-Fläming"
+  ],
+  "origin": "Zossen",
+  "states": [
+   "Brandenburg"
+  ],
+  "statesEn": [
+   "Brandenburg"
+  ]
+ },
+ {
+  "code": "ZW",
+  "type": "district",
+  "districts": [
+   "Zweibrücken",
+   "Südwestpfalz"
+  ],
+  "origin": null,
+  "states": [
+   "Rheinland-Pfalz"
+  ],
+  "statesEn": [
+   "Rhineland-Palatinate"
+  ]
+ },
+ {
+  "code": "ZZ",
+  "type": "district",
+  "districts": [
+   "Burgenlandkreis"
+  ],
+  "origin": "Zeitz",
+  "states": [
+   "Sachsen-Anhalt"
+  ],
+  "statesEn": [
+   "Saxony-Anhalt"
+  ]
+ }
+]

@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Kennzeichen Abenteuer",
+    "slug": "kennzeichen-abenteuer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5BB8F0"
+    },
+    "ios": {
+      "bundleIdentifier": "com.shafeeque.kennzeichenabenteuer",
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.shafeeque.kennzeichenabenteuer",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#5BB8F0"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "Kennzeichen Abenteuer",
+      "shortName": "Abenteuer",
+      "themeColor": "#5BB8F0",
+      "backgroundColor": "#5BB8F0"
+    }
+  }
+}

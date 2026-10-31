@@ -1,0 +1,95 @@
+Kennzeichen Abenteuer
+Copyright (c) 2026 Shafeeque. All rights reserved.
+
+PROPRIETARY LICENSE
+
+This repository and everything in it, including the source code, artwork,
+illustrations, characters, icons, designs, text, audio scripts, data
+compilations and documentation (together, the "Software"), are the
+proprietary property of the copyright holder and are protected by copyright
+and other intellectual property laws.
+
+1. No license granted
+
+   Except as expressly stated in Section 2, no license or right of any kind is
+   granted to you, whether by implication, estoppel or otherwise. Being able to
+   view the Software, for example in a public repository, does not grant any
+   right to use it.
+
+2. Permitted use
+
+   You may view the Software and make copies of it only where this is
+   technically necessary to view it on the platform where the copyright holder
+   published it (for example, viewing it in a web browser or using the "fork"
+   function of a code hosting platform, where that platform's terms of service
+   require it). You may not use any such fork or copy for any other purpose.
+
+3. Restrictions
+
+   Without the prior written permission of the copyright holder, you may not:
+
+   a) copy, reproduce, modify, translate or create derivative works of the
+      Software or any part of it;
+   b) distribute, publish, sublicense, sell, rent, lease or otherwise make the
+      Software available to any third party;
+   c) publish the Software, or any application built from it or substantially
+      similar to it, in any app store, marketplace or website;
+   d) use the Software, in whole or in part, for any commercial or
+      non-commercial product or service;
+   e) use the name "Kennzeichen Abenteuer", its logo, its characters or its
+      artwork in any way;
+   f) remove or alter any copyright, trademark or other proprietary notices; or
+   g) use the Software or any part of it to train, fine-tune or evaluate
+      machine-learning or artificial-intelligence models.
+
+4. Third-party components
+
+   The Software uses third-party components that are licensed under their own
+   terms, which continue to apply to those components only. These include:
+
+   - open-source libraries listed in package.json (for example Expo and
+     React Native), each under its respective license;
+   - the Fredoka typeface, licensed under the SIL Open Font License 1.1;
+   - publicly available facts about German vehicle registration area codes.
+
+   Nothing in this license restricts rights you have in those components under
+   their own licenses. It does restrict the selection, arrangement and
+   presentation of that material in the Software.
+
+5. Feedback and contributions
+
+   Any suggestions, feedback, issues or code you submit to the copyright holder
+   may be used by the copyright holder freely and without obligation. Submitting
+   them does not grant you any rights in the Software.
+
+6. Termination
+
+   Any use of the Software that breaches this license is unauthorised and
+   automatically ends any permission you had under Section 2. On termination you
+   must delete all copies of the Software in your possession or control.
+
+7. Disclaimer of warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+   Nothing in this license limits liability that cannot be limited by law, such
+   as liability for intent or gross negligence.
+
+9. Governing law
+
+   This license is governed by the laws of the Federal Republic of Germany,
+   excluding its conflict-of-laws rules and the United Nations Convention on
+   Contracts for the International Sale of Goods.
+
+10. Contact
+
+   For permission requests or licensing enquiries, contact the copyright holder
+   through the repository where the Software is published.
